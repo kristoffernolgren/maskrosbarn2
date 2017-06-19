@@ -1,0 +1,53 @@
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="script.js"></script>
+</head>
+<body>
+	Todo:
+	 - Slider-grejjen
+	 - Dölja/visa knapparna
+	 - Skriva helt själv.
+	<div class="fieldset">
+		<h1>Skicka ett brev till din kommun</h1>
+		<div class="group">
+			<select class="hello input">
+				<option>Tjenixen</option>
+				<option>Hej</option>
+				<option>Goddag</option>
+			</select>
+		</div>
+		<div class="group">
+			<label><input class="check input" data-nice="Det vore fint om ungdomarna fick träffas utan föräldrarna." type="checkbox">Få träffa ungdomar utan sina föräldrar</label></input><br />
+			<label><input class="check input" data-nice="Jag tror socialsekrerterare skulle tjäna mycket på att få utbildning i bemtande... ." type="checkbox">Få mer utbildning i att bemöta ungdomar</label></input><br />
+			<label><input class="check input"  data-nice="Om socialsekreterarna kunde jobba mer med ungdomarna..." type="checkbox">Mer tid att lägga på att träffa barn, istället för administration</label></input><br />
+			<label><input class="check input"  data-nice="Det finns för lite tid att lägga på varje barn..." type="checkbox">Mer personal så alla kan få det som de behöver.</label></input><br />
+		</div>
+
+		<div class="group">
+			<select class="signoff input">
+				<option>Vänligen</option>
+				<option>Högaktningsfullt</option>
+				<option>Med vänlig hälsning</option>
+			</select>
+		</div>
+		<div class="group"><label>Namn</label><input class="input name" type="text"></div>
+		<div class="group">
+			<div class="slider input" class="group">
+				<label>Arg</label><input min="0" max="2" step="1" list="tickmarks" type="range"><label>Trevlig</label>
+				<datalist id="tickmarks">
+					<option value="0" label="Trevlig">
+					<option value="1">
+					<option value="2" label="Arg">
+				</datalist>
+		</div>
+		<div class="group"><textarea></textarea></div>
+		<div class="group"><label>E-mail</label><input type="email"></div>
+		<div class="group"><label>Kommun</label><input type="text" value="Stockholms Kommun"></div>
+		<div class="group"><input value="Skicka in" type="submit"></div>
+
+	</div>
+
+</body>
+</html>
