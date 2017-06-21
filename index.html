@@ -5,44 +5,71 @@
 	<script src="script.js"></script>
 </head>
 <body>
-	Todo:
-	 - Slider-grejjen
-	 - Dölja/visa knapparna
-	 - Skriva helt själv.
 	<div class="fieldset">
 		<h1>Skicka ett brev till din kommun</h1>
-		<div class="group">
-			<select class="hello input">
-				<option>Tjenixen</option>
-				<option>Hej</option>
-				<option>Goddag</option>
-			</select>
-		</div>
-		<div class="group">
-			<label><input class="check input" data-nice="Det vore fint om ungdomarna fick träffas utan föräldrarna." type="checkbox">Få träffa ungdomar utan sina föräldrar</label></input><br />
-			<label><input class="check input" data-nice="Jag tror socialsekrerterare skulle tjäna mycket på att få utbildning i bemtande... ." type="checkbox">Få mer utbildning i att bemöta ungdomar</label></input><br />
-			<label><input class="check input"  data-nice="Om socialsekreterarna kunde jobba mer med ungdomarna..." type="checkbox">Mer tid att lägga på att träffa barn, istället för administration</label></input><br />
-			<label><input class="check input"  data-nice="Det finns för lite tid att lägga på varje barn..." type="checkbox">Mer personal så alla kan få det som de behöver.</label></input><br />
-		</div>
+		<div class="inputGroup">
+		<p>Välj nedan för att komma igång</p>
+			<div class="group">
+				<select class="hello input">
+					<option></option>
+					<option>Tjenixen</option>
+					<option>Hej</option>
+					<option>Goddag</option>
+				</select>
+			</div>
+			<div class="group">
+				<label><input
+					class="check input" type="checkbox"
+					data-mode1="😡💩💩💩"
+					data-mode2="Ibland vill ungdomar inte träffas med sina föräldrar."
+					data-mode3="Det vore fint om ungdomarna fick träffas utan föräldrarna.">
+						Få träffa ungdomar utan sina föräldrar
+					</input></label><br />
+				<label><input
+					class="check input" type="checkbox"
+					data-mode1="😬😬💔😡💢"
+					data-mode2="Socialserkreterare verkar inte veta vad de håller på med."
+					data-mode3="Jag tror socialsekrerterare skulle tjäna mycket på att få utbildning i bemtande...">
+						Få mer utbildning i att bemöta ungdomar
+					</input></label><br />
+				<label><input
+					class="check input" type="checkbox"
+					data-mode1="💩💔😡😬😬"
+					data-mode2="Varför är det så mycket administration!"
+					data-mode3="Om socialsekreterarna kunde jobba mer med ungdomarna...">
+						Mer tid att lägga på att träffa barn, istället för administration
+					</input></label><br />
+				<label><input
+					class="check input" type="checkbox"
+					data-mode1="😬😬💢💩💔"
+					data-mode2="Varför finns det så lite socialsekrerterare?"
+					data-mode3="Det finns för lite tid att lägga på varje barn...">
+						Mer personal så alla kan få det som de behöver.
+				</input></label><br />
+			</div>
 
-		<div class="group">
-			<select class="signoff input">
-				<option>Vänligen</option>
-				<option>Högaktningsfullt</option>
-				<option>Med vänlig hälsning</option>
-			</select>
+			<div class="group">
+				<select class="signoff input">
+					<option></option>
+					<option>Vänligen</option>
+					<option>Högaktningsfullt</option>
+					<option>Med vänlig hälsning</option>
+				</select>
+			</div>
+			<div class="group"><label>Namn</label><input class="input name" type="text"></div>
+			<div class="group">
+				<div class="input" class="group">
+					<label>Arg</label><input class="slider" min="1" max="3" val="2" step="1" list="tickmarks" type="range"><label>Trevlig</label>
+					<datalist id="tickmarks">
+						<option value="0" label="Trevlig">
+						<option value="1">
+						<option value="2" label="Arg">
+					</datalist>
+				</div>
+			</div>
+			<button class="enable">Jag vill skriva själv</button>
 		</div>
-		<div class="group"><label>Namn</label><input class="input name" type="text"></div>
-		<div class="group">
-			<div class="slider input" class="group">
-				<label>Arg</label><input min="0" max="2" step="1" list="tickmarks" type="range"><label>Trevlig</label>
-				<datalist id="tickmarks">
-					<option value="0" label="Trevlig">
-					<option value="1">
-					<option value="2" label="Arg">
-				</datalist>
-		</div>
-		<div class="group"><textarea></textarea></div>
+		<div class="group"><textarea disabled> </textarea></div>
 		<div class="group"><label>E-mail</label><input type="email"></div>
 		<div class="group"><label>Kommun</label><input type="text" value="Stockholms Kommun"></div>
 		<div class="group"><input value="Skicka in" type="submit"></div>
