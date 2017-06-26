@@ -23,6 +23,14 @@ $( document ).ready(function() {
 	$('.enable').on('click', function(){
 		$('textarea').removeAttr('disabled');
 		$('.inputGroup').hide();
-	})
+	});
+	$('.form').submit(function(e){
+		e.preventDefault();
+		$.ajax({
+			url: "https://script.google.com/macros/s/1lMPe7miU9rRAxVhcpKPrW6kxrh5j3nlHtSmqHMKCIWw/exec",
+			type: "post",
+			data: $( this ).serialize()
+	});
+	});
 
 });
