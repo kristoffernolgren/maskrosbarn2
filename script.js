@@ -1,24 +1,34 @@
 $( document ).ready(function() {
 	var update = function(i){
 		var checks = $('.check').toArray();
-		var string = $('.hello').val();
 		var mode = $('.slider').val();
+		var string = ''
+		string += $('.hello').val();
+		if(checks.some(isChecked)){
+			string += '\n\n\n';
+			string += $('#tickmarks').data('hello'+mode);
+			string += '\n\n';
+		}
 
-		string += '\n\n\n';
 		checks.forEach(function(check){
 			if($(check).is(':checked')){
-				string += $(check).data('mode'+mode);
-				string += '\n\n';
+				string += $(check).parent().text();
+				string += '\n';
 			}
 		});
-
-		string += $('.signoff').val();
+		if(checks.some(isChecked)){
+			string += '\n';
+			string += $('#tickmarks').data('goodbye'+mode);
+		}
 		string += '\n';
 
 		string += $('.name').val();
-
+		string = string.replace(/\\n/g, "\n");
 		$('textarea').val(string);
 	};
+	isChecked = function(element) {
+		return $(element).is(':checked')
+	}
 	$('.input').on('change keydown', update);
 	$('.enable').on('click', function(){
 		$('textarea').removeAttr('disabled');

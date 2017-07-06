@@ -12,61 +12,38 @@
 			<div class="group">
 				<select class="hello input">
 					<option></option>
-					<option>Tjenixen</option>
 					<option>Hej</option>
 					<option>Goddag</option>
 				</select>
 			</div>
 			<div class="group">
-				<label><input
-					class="check input" type="checkbox"
-					data-mode1="😡💩💩💩"
-					data-mode2="Ibland vill ungdomar inte träffas med sina föräldrar."
-					data-mode3="Det vore fint om ungdomarna fick träffas utan föräldrarna.">
-						Få träffa ungdomar utan sina föräldrar
-					</input></label><br />
-				<label><input
-					class="check input" type="checkbox"
-					data-mode1="😬😬💔😡💢"
-					data-mode2="Socialserkreterare verkar inte veta vad de håller på med."
-					data-mode3="Jag tror socialsekrerterare skulle tjäna mycket på att få utbildning i bemtande...">
-						Få mer utbildning i att bemöta ungdomar
-					</input></label><br />
-				<label><input
-					class="check input" type="checkbox"
-					data-mode1="💩💔😡😬😬"
-					data-mode2="Varför är det så mycket administration!"
-					data-mode3="Om socialsekreterarna kunde jobba mer med ungdomarna...">
-						Mer tid att lägga på att träffa barn, istället för administration
-					</input></label><br />
-				<label><input
-					class="check input" type="checkbox"
-					data-mode1="😬😬💢💩💔"
-					data-mode2="Varför finns det så lite socialsekrerterare?"
-					data-mode3="Det finns för lite tid att lägga på varje barn...">
-						Mer personal så alla kan få det som de behöver.
-				</input></label><br />
-			</div>
-
-			<div class="group">
-				<select class="signoff input">
-					<option></option>
-					<option>Vänligen</option>
-					<option>Högaktningsfullt</option>
-					<option>Med vänlig hälsning</option>
-				</select>
-			</div>
-			<div class="group"><label>Namn</label><input class="input name" type="text"></div>
-			<div class="group">
 				<div class="input" class="group">
 					<label>Arg</label><input class="slider" min="1" max="3" val="2" step="1" list="tickmarks" type="range"><label>Trevlig</label>
-					<datalist id="tickmarks">
-						<option value="0" label="Trevlig">
+					<datalist id="tickmarks"
+						data-hello3="Nu får det vara nog! Hur länge ska ni ignorera att vi har problem med socialtjänsten och att barn far illa av detta. Som invånare kommunen du jobbar i så kräver jag att ni lägger fram en lösning som gör att:"
+						data-goodbye3="Sverige brukade vara ett land som tar hand om de mest utsatta. Det svenska systemet var något att vara stolt över. Låt det bli så igen. NU! "
+						data-hello2="Jag tycker inte att vi kan fortsätta så här. Jag vill att ni inför nästa år ser över så att vi kan ta tag i nedan punkter i vår kommun:"
+						data-goodbye2="Ta tag i detta, det är brådskande! \n\nMvh,"
+						data-hello1="Jag förstår att kommunbudgeten måste fördelas på många poster. Men snälla ni inför nästa år så måste vi göra något åt att barn och unga som far illa. Socialsekreterare måste få chansen att:"
+						data-goodbye1="Det är dags nu, snälla ni prata om detta, gör något! \n\nVänligen,"
+					>
+						<option value="0" label="Arg">
 						<option value="1">
-						<option value="2" label="Arg">
+						<option value="2" label="Trevgig">
 					</datalist>
 				</div>
 			</div>
+			<div class="group">
+				<label><input class="check input" type="checkbox">Barn och unga måste få chans att träffa socialsekreteraren utan sina föräldrar</label><br />
+				<label><input class="check input" type="checkbox">Socialsekreterare måste få mer tid över att träffa barn och unga än dagslägets genomsnitt på 10 min i veckan.</label><br />
+				<label><input class="check input" type="checkbox">Vi måste underlätta för socialsekreterare så de får mindre administrations- och dokumentationstid, t.ex. genom att anställa administratörer.</label><br />
+				<label><input class="check input" type="checkbox">Det måste anställas fler socialsekreterare så att det kan ha färre ärenden per person</label><br />
+				<label><input class="check input" type="checkbox">Vi måste utveckla värdegrundsarbetet för att få in ett barnperspektiv</label><br />
+				<label><input class="check input" type="checkbox">Vi måste göra så att socialsekreterare kan vara ett stöd för unga utan att det behöver leda någonstans.</label><br />
+				<label><input class="check input" type="checkbox">Socialsekreterare måste kunna följa det enskilda barnet och inte insatsen i fråga.</label><br />
+				<label><input class="check input" type="checkbox">Socialtjänsten måste bli mer lättillgänglig för unga.</label><br />
+			</div>
+			<div class="group"><label>Namn</label><input class="input name" type="text"></div>
 			<button class="enable">Jag vill skriva själv</button>
 		</div>
 		<form class="form">
