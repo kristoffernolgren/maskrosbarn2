@@ -1,59 +1,80 @@
 <html>
-<head>
-	<link rel="stylesheet" href="style.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="script.js"></script>
-</head>
-<body>
-	<div class="fieldset">
-		<h1>Skicka ett brev till din kommun</h1>
-		<div class="inputGroup">
-		<p>Välj nedan för att komma igång</p>
-			<div class="group">
-				<select class="hello input">
-					<option></option>
-					<option>Hej</option>
-					<option>Goddag</option>
-				</select>
-			</div>
-			<div class="group">
-				<div class="input" class="group">
-					<label>Arg</label><input class="slider" min="1" max="3" val="2" step="1" list="tickmarks" type="range"><label>Trevlig</label>
-					<datalist id="tickmarks"
-						data-hello3="Nu får det vara nog! Hur länge ska ni ignorera att vi har problem med socialtjänsten och att barn far illa av detta. Som invånare kommunen du jobbar i så kräver jag att ni lägger fram en lösning som gör att:"
-						data-goodbye3="Sverige brukade vara ett land som tar hand om de mest utsatta. Det svenska systemet var något att vara stolt över. Låt det bli så igen. NU! "
-						data-hello2="Jag tycker inte att vi kan fortsätta så här. Jag vill att ni inför nästa år ser över så att vi kan ta tag i nedan punkter i vår kommun:"
-						data-goodbye2="Ta tag i detta, det är brådskande! \n\nMvh,"
-						data-hello1="Jag förstår att kommunbudgeten måste fördelas på många poster. Men snälla ni inför nästa år så måste vi göra något åt att barn och unga som far illa. Socialsekreterare måste få chansen att:"
-						data-goodbye1="Det är dags nu, snälla ni prata om detta, gör något! \n\nVänligen,"
-					>
-						<option value="0" label="Arg">
-						<option value="1">
-						<option value="2" label="Trevgig">
-					</datalist>
-				</div>
-			</div>
-			<div class="group">
-				<label><input class="check input" type="checkbox">Barn och unga måste få chans att träffa socialsekreteraren utan sina föräldrar</label><br />
-				<label><input class="check input" type="checkbox">Socialsekreterare måste få mer tid över att träffa barn och unga än dagslägets genomsnitt på 10 min i veckan.</label><br />
-				<label><input class="check input" type="checkbox">Vi måste underlätta för socialsekreterare så de får mindre administrations- och dokumentationstid, t.ex. genom att anställa administratörer.</label><br />
-				<label><input class="check input" type="checkbox">Det måste anställas fler socialsekreterare så att det kan ha färre ärenden per person</label><br />
-				<label><input class="check input" type="checkbox">Vi måste utveckla värdegrundsarbetet för att få in ett barnperspektiv</label><br />
-				<label><input class="check input" type="checkbox">Vi måste göra så att socialsekreterare kan vara ett stöd för unga utan att det behöver leda någonstans.</label><br />
-				<label><input class="check input" type="checkbox">Socialsekreterare måste kunna följa det enskilda barnet och inte insatsen i fråga.</label><br />
-				<label><input class="check input" type="checkbox">Socialtjänsten måste bli mer lättillgänglig för unga.</label><br />
-			</div>
-			<div class="group"><label>Namn</label><input class="input name" type="text"></div>
-			<button class="enable">Jag vill skriva själv</button>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="normalize.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="script.js"></script>
+		<script src="easydropdown.js"></script>
+
+	</head>
+	<body>
+		<div class="nav">
+			<img class="logo" src="images/logo.svg">
+			<nav>
+				<a class="active" href="/">Formulär</a>
+				<a href="/about">OM projektet</a>
+				<a href="/map">Karta</a>
+			</nav>
 		</div>
-		<form class="form">
-			<div class="group"><textarea name="letter" disabled> </textarea></div>
-			<div class="group"><label>E-mail</label><input name="email" type="email"></div>
-			<div class="group"><label>Kommun</label><input name="kommun" type="text" value="Stockholms Kommun"></div>
-			<div class="group"><input value="Skicka in" type="submit"></div>
-		</form>
+		<div class="header">
+			<h1>Skicka ett brev till din kommun</h1>
+			<p>Välj i menyn nedan för att komma igång. Välj “Jag vill skriva själv” om du vill skriva hela brevet med egna ord. Glöm inte bort att välja den kommun du vill skicka till.</p>
+		</div>
+		<div class="fieldset">
+			<form class="form">
 
-	</div>
+				<div class="inputGroup">
+					<div class="group">
+						<select class="hello input dropdown">
+							<option class="label">Hälsningsfras</option>
+							<option>Hej</option>
+							<option>Goddag</option>
+						</select>
+						<label>Kommun</label><input name="kommun" type="text" value="Stockholms Kommun">
 
-</body>
+					</div>
+					<div class="group">
+						<div class="input" class="group">
+							<p>Jag vill att brevet ska vara:</p>
+								<label class="sliderlabel">😠</label><input class="slider" min="1" max="3" val="2" step="1" list="tickmarks" type="range"><label class="sliderlabel">🙂</label>
+						</div>
+						<div class="group">
+							<datalist id="tickmarks"
+								data-hello3="Nu får det vara nog! Hur länge ska ni ignorera att vi har problem med socialtjänsten och att barn far illa av detta. Som invånare kommunen du jobbar i så kräver jag att ni lägger fram en lösning som gör att:"
+								data-goodbye3="Sverige brukade vara ett land som tar hand om de mest utsatta. Det svenska systemet var något att vara stolt över. Låt det bli så igen. NU! "
+								data-hello2="Jag tycker inte att vi kan fortsätta så här. Jag vill att ni inför nästa år ser över så att vi kan ta tag i nedan punkter i vår kommun:"
+								data-goodbye2="Ta tag i detta, det är brådskande! \n\nMvh,"
+								data-hello1="Jag förstår att kommunbudgeten måste fördelas på många poster. Men snälla ni inför nästa år så måste vi göra något åt att barn och unga som far illa. Socialsekreterare måste få chansen att:"
+								data-goodbye1="Det är dags nu, snälla ni prata om detta, gör något! \n\nVänligen,"
+							>
+								<option value="0" label="Arg">
+								<option value="1">
+								<option value="2" label="Trevgig">
+							</datalist>
+						</div>
+					</div>
+					<div class="group">
+						<label><input class="check input" type="checkbox">Barn och unga måste få chans att träffa socialsekreteraren utan sina föräldrar</label><br />
+						<label><input class="check input" type="checkbox">Socialsekreterare måste få mer tid över att träffa barn och unga än dagslägets genomsnitt på 10 min i veckan.</label><br />
+						<label><input class="check input" type="checkbox">Vi måste underlätta för socialsekreterare så de får mindre administrations- och dokumentationstid, t.ex. genom att anställa administratörer.</label><br />
+						<label><input class="check input" type="checkbox">Det måste anställas fler socialsekreterare så att det kan ha färre ärenden per person</label><br />
+						<label><input class="check input" type="checkbox">Vi måste utveckla värdegrundsarbetet för att få in ett barnperspektiv</label><br />
+						<label><input class="check input" type="checkbox">Vi måste göra så att socialsekreterare kan vara ett stöd för unga utan att det behöver leda någonstans.</label><br />
+						<label><input class="check input" type="checkbox">Socialsekreterare måste kunna följa det enskilda barnet och inte insatsen i fråga.</label><br />
+						<label><input class="check input" type="checkbox">Socialtjänsten måste bli mer lättillgänglig för unga.</label><br />
+					</div>
+					<div class="group"><label>Namn</label><input class="input name" type="text"></div>
+					<div class="group"><label>E-mail</label><input name="email" type="email"></div>
+				</div>
+
+
+			<button class="enable">Jag vill skriva själv</button>
+			<textarea name="letter" disabled> </textarea>
+			<input value="Skicka in" type="submit">
+
+			</form>
+		</div>
+
+	</body>
 </html>

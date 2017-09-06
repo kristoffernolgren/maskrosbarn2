@@ -1,0 +1,30 @@
+Description
+-----------------
+
+The set contains 12 different web navigation bars which can be used on any website. The design is flat, modern and intuitive for the user. I can be easily coded for any resolutions: desktop, tablet and mobile.
+
+Features
+------------
+
+» 1 PSD file, 72 dpi
+» 12 models - shape based design
+» icons included in the PSD file
+» layered & well organized file
+» easy to edit; feel free to adjust the colors to suite your needs
+
+Fonts used
+----------------
+
+» Google Webfonts
+» Proxima Nova: http://www.fontbros.com/families/proxima-nova?src=GoogleFonts
+
+Credits
+----------
+
+» www.flaticon.com
+» www.unsplash.com
+
+Note
+--------
+
+The photos used in the preview are not included in the main file.
