@@ -16,15 +16,18 @@ $( document ).ready(function() {
 				string += '\n';
 			}
 		});
-		if(checks.some(isChecked)){
-			string += '\n';
-			string += $('#tickmarks').data('goodbye'+mode);
-		}
-		string += '\n';
 
-		string += $('.name').val();
-		string = string.replace(/\\n/g, "\n");
-		$('textarea').val(string);
+		setTimeout(function() {
+			if($('.name').val().length > 0 && checks.some(isChecked)) {
+				string += '\n';
+				string += $('#tickmarks').data('goodbye'+mode);
+				string += '\n';
+				string += $('.name').val();
+			}
+			string = string.replace(/\\n/g, "\n");
+			$('textarea').val(string);
+		}, 10)
+
 	};
 	isChecked = function(element) {
 		return $(element).is(':checked')
@@ -32,7 +35,7 @@ $( document ).ready(function() {
 	$('.input').on('change keydown', update);
 	$('.enable').on('click', function(){
 		$('textarea').removeAttr('disabled');
-		$('.inputGroup').hide();
+		$('.inputGroup').css({ 'opacity' : 0 })
 	});
 	$('.form').submit(function(e){
 		e.preventDefault();
@@ -42,5 +45,12 @@ $( document ).ready(function() {
 			data: $( this ).serialize()
 	});
 	});
+
+	$.getJSON("http://jsonip.com?callback=?", function (data) {
+			$.getJSON('http://ip-api.com/json/'+data.ip, function (data) {
+				console.log(data.city, $('.municipality'))
+				$('.municipality').val(data.city)
+			});
+		});
 
 });
