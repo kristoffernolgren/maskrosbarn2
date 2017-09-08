@@ -1,15 +1,39 @@
-
-
 body {
 	font-family: 'Roboto Condensed', sans-serif;
+}
+
+[type="checkbox"] {
+	box-sizing: border-box;
+    padding: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #4a190e;
+    width: 15px;
+    height: 15px;
+}
+
+[type="checkbox"]:checked {
+	background: #f45430;
+	border: 0;
+}
+
+.nav, .fieldset{
+	max-width: 1140px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0 16px;
+}
+.fieldset:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .nav {
 	font-family: 'Roboto Condensed', sans-serif;
 	height: 70px;
-	max-width: 1200px;
-	margin: 35px auto;
-
+	margin-top: 36px;
 }
 
 .nav .logo{
@@ -35,55 +59,168 @@ body {
 
 .header {
 	font-family: 'Roboto Condensed', sans-serif;
-	max-width: 500px;
-	margin: 24px auto 74px;
+	max-width: 600px;
+	margin: 24px auto 64px;
 	text-align: center;
 }
 
 .header h1{
-	font-size: 64px;
+	font-size: 76px;
 	color: #4a190e;
 	margin-bottom: 0;
+	margin-top: 38px;
+	line-height: 72px;
 }
 
 .header p{
-	font-size: 18px;
-	color: #fa5224;
-	margin-top: 12px;
+    font-size: 18px;
+    color: #fa5224;
+    margin: 28px auto 0;
+    width: 500px;
 }
 
-.inputGroup, textarea{
+.inputGroup, .result{
 	width: 50%;
 	float: left;
+	box-sizing: border-box;
+}
+
+.inputGroup {
+	padding-right: 8px
+}
+
+.result{
+	padding-left: 8px;
+}
+
+.result textarea{
+	width: 100%;
+	margin-top: .5em;
+	height: 26em;
 }
 
 .fieldset {
 	font-family: 'Roboto Condensed', sans-serif;
-
 	border-top: 2px solid #bdbdbd;
-	max-width: 1200px;
-	margin: 0 auto;
-	padding-top: 12px;
+	padding-top: 16px;
+	color: #4b0f0e;
 }
 
-.dropdown {
-	float: left;
+.fieldset input[type=text],.fieldset input[type=email]{
+	padding: 11px;
 }
-
-
 .group{
 	margin-bottom: 1em;
-	line-height: 36px;
 }
 
-.slider{
-	width: 90%;
+.group label{
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+
+.dropdown {
+	float: right;
+}
+.half {
+	width: 50%;
+	float: left;
+	margin-bottom: .5em;
+	line-height: 44px;
+}
+.half label{
+    text-align: right;
+    width: 30%;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 0;
+}
+
+.half input {
+	float: right;
+}
+
+.checkboxes label{
+	float: left;
+	padding: 0 0 10px 0;
+	width: 100%;
+}
+
+
+.sliderheader{
+	margin-bottom: 0;
+	float: left;
+    width: 100%;
 }
 
 .sliderlabel{
 	display: inline-block;
-	width: 5%;
+	width: 8%;
 	text-align: center;
+}
+
+label span{
+    float: right;
+    width: 95%;
+}
+/* Input reset */
+input[type=range] {
+  -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+  width: 84%; /* Specific width is required for Firefox. */
+  background: transparent; /* Otherwise white in Chrome */
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+input[type=range]:focus {
+  outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  cursor: pointer;
+
+  /* Hides the slider so custom styles can be added */
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+
+input[type=range]{
+	background: #fa5224;
+	height: 2px;
+    position: relative;
+    top: -6px;
+}
+
+/* Special styling for WebKit/Blink */
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 18px;
+  width: 18px;
+  border-radius: 9px;
+  background: #fa5224;
+  cursor: pointer;
+}
+
+/* All the same stuff for Firefox */
+input[type=range]::-moz-range-thumb {
+  height: 18px;
+  width: 18px;
+  border-radius: 9px;
+  background: #fa5224;
+  cursor: pointer;
+}
+
+/* All the same stuff for IE */
+input[type=range]::-ms-thumb {
+  height: 18px;
+  width: 18px;
+  border-radius: 9px;
+  background: #fa5224;
+  cursor: pointer;
 }
 
 /* reset */
@@ -148,13 +285,13 @@ ul {
 	top: 50%;
 	margin-top: -4px;
 	border: 6px solid transparent;
-	border-top: 8px solid #000;
+	border-top: 8px solid #fff;
 }
 
 .dropdown.open .carat{
 	margin-top: -10px;
 	border-top: 6px solid transparent;
-	border-bottom: 8px solid #000;
+	border-bottom: 8px solid #fff;
 }
 
 /* OLD SELECT (HIDDEN) */
@@ -190,12 +327,16 @@ ul {
 .dropdown .selected,
 .dropdown li{
 	display: block;
-	font-size: 18px;
+	font-size: 12px;
+	text-transform: uppercase;
 	line-height: 1;
 	color: #000;
-	padding: 9px 12px;
+	padding: 16px 12px;
 	overflow: hidden;
 	white-space: nowrap;
+}
+.dropdown .selected{
+	color: white;
 }
 
 
@@ -274,4 +415,39 @@ ul {
 
 .dropdown li.active{
 	font-weight: 700;
+}
+
+.button{
+	color: white;
+	height: 42px;
+	background: #f45430;
+	border: 0;
+	font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1;
+    padding: 16px 12px;
+    white-space: nowrap;
+    height: 1em;
+    float: left;
+    cursor: pointer;
+}
+
+.submit {
+	float: right;
+    height: 42px;
+}
+
+footer{
+	margin-top: 30px;
+	height: 52px;
+	background: #ff7800; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #ff7800 0%, #ff1414 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #ff7800 0%,#ff1414 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #ff7800 0%,#ff1414 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+footer img{
+    margin: 0 auto;
+    display: block;
+    padding-top: 10px;
 }

@@ -1,7 +1,7 @@
 <html>
 	<head>
-		<link rel="stylesheet" href="style.css">
 		<link rel="stylesheet" href="normalize.css">
+		<link rel="stylesheet" href="style.css">
 		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<script src="script.js"></script>
@@ -26,18 +26,29 @@
 
 				<div class="inputGroup">
 					<div class="group">
+						<div class="half">
 						<select class="hello input dropdown">
 							<option class="label">Hälsningsfras</option>
 							<option>Hej</option>
 							<option>Goddag</option>
 						</select>
-						<label>Kommun</label><input name="kommun" type="text" value="Stockholms Kommun">
-
+					</div>
+						<div class="half">
+							<label>Kommun</label><input name="kommun" type="text" value="Stockholms Kommun">
+						</div>
+					</div>
+					<div class="group">
+						<div class="half">
+							<label>Namn</label><input class="input name" type="text">
+						</div>
+						<div class="half">
+							<label>Mail</label><input name="email" type="email">
+						</div>
 					</div>
 					<div class="group">
 						<div class="input" class="group">
-							<p>Jag vill att brevet ska vara:</p>
-								<label class="sliderlabel">😠</label><input class="slider" min="1" max="3" val="2" step="1" list="tickmarks" type="range"><label class="sliderlabel">🙂</label>
+							<p class="sliderheader">Jag vill att brevet ska vara:</p>
+								<label class="sliderlabel">🙂</label><input class="slider" min="1" max="3" val="2" step="1" list="tickmarks" type="range"><label class="sliderlabel">😠</label>
 						</div>
 						<div class="group">
 							<datalist id="tickmarks"
@@ -54,27 +65,28 @@
 							</datalist>
 						</div>
 					</div>
-					<div class="group">
-						<label><input class="check input" type="checkbox">Barn och unga måste få chans att träffa socialsekreteraren utan sina föräldrar</label><br />
-						<label><input class="check input" type="checkbox">Socialsekreterare måste få mer tid över att träffa barn och unga än dagslägets genomsnitt på 10 min i veckan.</label><br />
-						<label><input class="check input" type="checkbox">Vi måste underlätta för socialsekreterare så de får mindre administrations- och dokumentationstid, t.ex. genom att anställa administratörer.</label><br />
-						<label><input class="check input" type="checkbox">Det måste anställas fler socialsekreterare så att det kan ha färre ärenden per person</label><br />
-						<label><input class="check input" type="checkbox">Vi måste utveckla värdegrundsarbetet för att få in ett barnperspektiv</label><br />
-						<label><input class="check input" type="checkbox">Vi måste göra så att socialsekreterare kan vara ett stöd för unga utan att det behöver leda någonstans.</label><br />
-						<label><input class="check input" type="checkbox">Socialsekreterare måste kunna följa det enskilda barnet och inte insatsen i fråga.</label><br />
-						<label><input class="check input" type="checkbox">Socialtjänsten måste bli mer lättillgänglig för unga.</label><br />
+					<div class="group checkboxes">
+						<label><input class="check input" type="checkbox"><span>Barn och unga måste få chans att träffa socialsekreteraren utan sina föräldrar</span></label>
+						<label><input class="check input" type="checkbox"><span>Socialsekreterare måste få mer tid över att träffa barn och unga än dagslägets genomsnitt på 10 min i veckan</span></label>
+						<label><input class="check input" type="checkbox"><span>Vi måste underlätta för socialsekreterare så de får mindre administrations- och dokumentationstid, t.ex. genom att anställa administratörer</span></label>
+						<label><input class="check input" type="checkbox"><span>Det måste anställas fler socialsekreterare så att det kan ha färre ärenden per person</span></label>
+						<label><input class="check input" type="checkbox"><span>Vi måste utveckla värdegrundsarbetet för att få in ett barnperspektiv</span></label>
+						<label><input class="check input" type="checkbox"><span>Vi måste göra så att socialsekreterare kan vara ett stöd för unga utan att det behöver leda någonstans</span></label>
+						<label><input class="check input" type="checkbox"><span>Socialsekreterare måste kunna följa det enskilda barnet och inte insatsen i fråga</span></label>
+						<label><input class="check input" type="checkbox"><span>Socialtjänsten måste bli mer lättillgänglig för unga</span></label>
 					</div>
-					<div class="group"><label>Namn</label><input class="input name" type="text"></div>
-					<div class="group"><label>E-mail</label><input name="email" type="email"></div>
 				</div>
 
-
-			<button class="enable">Jag vill skriva själv</button>
-			<textarea name="letter" disabled> </textarea>
-			<input value="Skicka in" type="submit">
-
+			<div class="result">
+				<a class="enable button">Jag vill redigera själv</a>
+				<input value="Skicka in" type="submit" class="submit button">
+				<textarea name="letter" disabled> </textarea>
+			</div>
 			</form>
 		</div>
+		<footer>
+			<img class="logo" src="images/footerlogo1.svg">
+		</footer>
 
 	</body>
 </html>
