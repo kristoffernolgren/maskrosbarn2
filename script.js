@@ -35,14 +35,22 @@ $( document ).ready(function() {
 	$('.input').on('change keydown', update);
 	$('.enable').on('click', function(){
 		$('textarea').removeAttr('disabled');
+		$('textarea').focus();
 		$('.inputGroup').css({ 'opacity' : 0 })
+
 	});
 	$('.form').submit(function(e){
 		e.preventDefault();
+		$('textarea').removeAttr('disabled');
 		$.ajax({
 			url: "https://script.google.com/macros/s/AKfycbx8zIkb8P_s_sax-M3X2oSUw90uQIN3cwkOfoI9eCS1PHXj350/exec",
 			type: "post",
-			data: $( this ).serialize()
+			data: $( this ).serialize(),
+			success: function() {
+				$('.fieldset').hide()
+				$('.header').hide()
+				$('.nav').after('<div class="header"><h1>Tack!</h1></div>')
+			}
 	});
 	});
 
