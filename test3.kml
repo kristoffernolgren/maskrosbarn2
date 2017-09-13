@@ -9,7 +9,7 @@
         <width>1</width>
       </LineStyle>
       <PolyStyle>
-        <color>ff3053f6</color>
+        <color>ff1414ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -39,17 +39,9 @@
       <name>Sveriges kommuner</name>
       <Placemark>
         <name>Upplands Väsby</name>
-        <description><![CDATA[description: KNKOD: 0114<br>KNNAMN: Upplands Väsby<br>KNKOD: 0114<br>KNNAMN: Upplands Väsby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0114
-KNNAMN: Upplands Väsby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0114</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Upplands Väsby</value>
           </Data>
         </ExtendedData>
@@ -98,17 +90,9 @@ KNNAMN: Upplands Väsby</value>
       </Placemark>
       <Placemark>
         <name>Valentuna</name>
-        <description><![CDATA[description: KNKOD: 0115<br>KNNAMN: Vallentuna<br>KNKOD: 0115<br>KNNAMN: Vallentuna]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0115
-KNNAMN: Vallentuna</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0115</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vallentuna</value>
           </Data>
         </ExtendedData>
@@ -184,17 +168,9 @@ KNNAMN: Vallentuna</value>
       </Placemark>
       <Placemark>
         <name>Österåker</name>
-        <description><![CDATA[description: KNKOD: 0117<br>KNNAMN: Österåker<br>KNKOD: 0117<br>KNNAMN: Österåker]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0117
-KNNAMN: Österåker</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0117</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Österåker</value>
           </Data>
         </ExtendedData>
@@ -362,17 +338,9 @@ KNNAMN: Österåker</value>
       </Placemark>
       <Placemark>
         <name>Värmdö</name>
-        <description><![CDATA[description: KNKOD: 0120<br>KNNAMN: Värmdö<br>KNKOD: 0120<br>KNNAMN: Värmdö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0120
-KNNAMN: Värmdö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0120</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Värmdö</value>
           </Data>
         </ExtendedData>
@@ -659,17 +627,9 @@ KNNAMN: Värmdö</value>
       </Placemark>
       <Placemark>
         <name>Järfälla</name>
-        <description><![CDATA[description: KNKOD: 0123<br>KNNAMN: Järfälla<br>KNKOD: 0123<br>KNNAMN: Järfälla]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0123
-KNNAMN: Järfälla</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0123</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Järfälla</value>
           </Data>
         </ExtendedData>
@@ -717,17 +677,9 @@ KNNAMN: Järfälla</value>
       </Placemark>
       <Placemark>
         <name>Ekerö</name>
-        <description><![CDATA[description: KNKOD: 0125<br>KNNAMN: Ekerö<br>KNKOD: 0125<br>KNNAMN: Ekerö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0125
-KNNAMN: Ekerö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0125</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ekerö</value>
           </Data>
         </ExtendedData>
@@ -904,17 +856,9 @@ KNNAMN: Ekerö</value>
       </Placemark>
       <Placemark>
         <name>Huddinge</name>
-        <description><![CDATA[description: KNKOD: 0126<br>KNNAMN: Huddinge<br>KNKOD: 0126<br>KNNAMN: Huddinge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0126
-KNNAMN: Huddinge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0126</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Huddinge</value>
           </Data>
         </ExtendedData>
@@ -967,17 +911,9 @@ KNNAMN: Huddinge</value>
       </Placemark>
       <Placemark>
         <name>Botkyrka</name>
-        <description><![CDATA[description: KNKOD: 0127<br>KNNAMN: Botkyrka<br>KNKOD: 0127<br>KNNAMN: Botkyrka]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0127
-KNNAMN: Botkyrka</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0127</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Botkyrka</value>
           </Data>
         </ExtendedData>
@@ -1039,17 +975,9 @@ KNNAMN: Botkyrka</value>
       </Placemark>
       <Placemark>
         <name>Salem</name>
-        <description><![CDATA[description: KNKOD: 0128<br>KNNAMN: Salem<br>KNKOD: 0128<br>KNNAMN: Salem]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0128
-KNNAMN: Salem</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0128</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Salem</value>
           </Data>
         </ExtendedData>
@@ -1099,17 +1027,9 @@ KNNAMN: Salem</value>
       </Placemark>
       <Placemark>
         <name>Haninge</name>
-        <description><![CDATA[description: KNKOD: 0136<br>KNNAMN: Haninge<br>KNKOD: 0136<br>KNNAMN: Haninge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0136
-KNNAMN: Haninge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0136</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Haninge</value>
           </Data>
         </ExtendedData>
@@ -1342,17 +1262,9 @@ KNNAMN: Haninge</value>
       </Placemark>
       <Placemark>
         <name>Tyresö</name>
-        <description><![CDATA[description: KNKOD: 0138<br>KNNAMN: Tyresö<br>KNKOD: 0138<br>KNNAMN: Tyresö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0138
-KNNAMN: Tyresö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0138</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tyresö</value>
           </Data>
         </ExtendedData>
@@ -1397,17 +1309,9 @@ KNNAMN: Tyresö</value>
       </Placemark>
       <Placemark>
         <name>Upplands-Bro</name>
-        <description><![CDATA[description: KNKOD: 0139<br>KNNAMN: Upplands-Bro<br>KNKOD: 0139<br>KNNAMN: Upplands-Bro]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0139
-KNNAMN: Upplands-Bro</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0139</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Upplands-Bro</value>
           </Data>
         </ExtendedData>
@@ -1483,17 +1387,9 @@ KNNAMN: Upplands-Bro</value>
       </Placemark>
       <Placemark>
         <name>Nykvarn</name>
-        <description><![CDATA[description: KNKOD: 0140<br>KNNAMN: Nykvarn<br>KNKOD: 0140<br>KNNAMN: Nykvarn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0140
-KNNAMN: Nykvarn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0140</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nykvarn</value>
           </Data>
         </ExtendedData>
@@ -1528,17 +1424,9 @@ KNNAMN: Nykvarn</value>
       </Placemark>
       <Placemark>
         <name>Täby</name>
-        <description><![CDATA[description: KNKOD: 0160<br>KNNAMN: Täby<br>KNKOD: 0160<br>KNNAMN: Täby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0160
-KNNAMN: Täby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0160</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Täby</value>
           </Data>
         </ExtendedData>
@@ -1576,17 +1464,9 @@ KNNAMN: Täby</value>
       </Placemark>
       <Placemark>
         <name>Danderyd</name>
-        <description><![CDATA[description: KNKOD: 0162<br>KNNAMN: Danderyd<br>KNKOD: 0162<br>KNNAMN: Danderyd]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0162
-KNNAMN: Danderyd</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0162</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Danderyd</value>
           </Data>
         </ExtendedData>
@@ -1616,17 +1496,9 @@ KNNAMN: Danderyd</value>
       </Placemark>
       <Placemark>
         <name>Sollentuna</name>
-        <description><![CDATA[description: KNKOD: 0163<br>KNNAMN: Sollentuna<br>KNKOD: 0163<br>KNNAMN: Sollentuna]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0163
-KNNAMN: Sollentuna</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0163</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sollentuna</value>
           </Data>
         </ExtendedData>
@@ -1673,17 +1545,9 @@ KNNAMN: Sollentuna</value>
       </Placemark>
       <Placemark>
         <name>Stockholm</name>
-        <description><![CDATA[description: KNKOD: 0180<br>KNNAMN: Stockholm<br>KNKOD: 0180<br>KNNAMN: Stockholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0180
-KNNAMN: Stockholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0180</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Stockholm</value>
           </Data>
         </ExtendedData>
@@ -1821,17 +1685,9 @@ KNNAMN: Stockholm</value>
       </Placemark>
       <Placemark>
         <name>Södertälje</name>
-        <description><![CDATA[description: KNKOD: 0181<br>KNNAMN: Södertälje<br>KNKOD: 0181<br>KNNAMN: Södertälje]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0181
-KNNAMN: Södertälje</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0181</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Södertälje</value>
           </Data>
         </ExtendedData>
@@ -1941,17 +1797,9 @@ KNNAMN: Södertälje</value>
       </Placemark>
       <Placemark>
         <name>Nacka</name>
-        <description><![CDATA[description: KNKOD: 0182<br>KNNAMN: Nacka<br>KNKOD: 0182<br>KNNAMN: Nacka]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0182
-KNNAMN: Nacka</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0182</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nacka</value>
           </Data>
         </ExtendedData>
@@ -2034,17 +1882,9 @@ KNNAMN: Nacka</value>
       </Placemark>
       <Placemark>
         <name>Sundbyberg</name>
-        <description><![CDATA[description: KNKOD: 0183<br>KNNAMN: Sundbyberg<br>KNKOD: 0183<br>KNNAMN: Sundbyberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0183
-KNNAMN: Sundbyberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0183</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sundbyberg</value>
           </Data>
         </ExtendedData>
@@ -2069,17 +1909,9 @@ KNNAMN: Sundbyberg</value>
       </Placemark>
       <Placemark>
         <name>Solna</name>
-        <description><![CDATA[description: KNKOD: 0184<br>KNNAMN: Solna<br>KNKOD: 0184<br>KNNAMN: Solna]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0184
-KNNAMN: Solna</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0184</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Solna</value>
           </Data>
         </ExtendedData>
@@ -2110,17 +1942,9 @@ KNNAMN: Solna</value>
       </Placemark>
       <Placemark>
         <name>Lindingö</name>
-        <description><![CDATA[description: KNKOD: 0186<br>KNNAMN: Lidingö<br>KNKOD: 0186<br>KNNAMN: Lidingö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0186
-KNNAMN: Lidingö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0186</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lidingö</value>
           </Data>
         </ExtendedData>
@@ -2163,17 +1987,9 @@ KNNAMN: Lidingö</value>
       </Placemark>
       <Placemark>
         <name>Vaxholm</name>
-        <description><![CDATA[description: KNKOD: 0187<br>KNNAMN: Vaxholm<br>KNKOD: 0187<br>KNNAMN: Vaxholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0187
-KNNAMN: Vaxholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0187</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vaxholm</value>
           </Data>
         </ExtendedData>
@@ -2234,17 +2050,9 @@ KNNAMN: Vaxholm</value>
       </Placemark>
       <Placemark>
         <name>Norrtälje</name>
-        <description><![CDATA[description: KNKOD: 0188<br>KNNAMN: Norrtälje<br>KNKOD: 0188<br>KNNAMN: Norrtälje]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0188
-KNNAMN: Norrtälje</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0188</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Norrtälje</value>
           </Data>
         </ExtendedData>
@@ -2359,17 +2167,9 @@ KNNAMN: Norrtälje</value>
       </Placemark>
       <Placemark>
         <name>Sigtuna</name>
-        <description><![CDATA[description: KNKOD: 0191<br>KNNAMN: Sigtuna<br>KNKOD: 0191<br>KNNAMN: Sigtuna]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0191
-KNNAMN: Sigtuna</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0191</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sigtuna</value>
           </Data>
         </ExtendedData>
@@ -2447,17 +2247,9 @@ KNNAMN: Sigtuna</value>
       </Placemark>
       <Placemark>
         <name>Nynäshamn</name>
-        <description><![CDATA[description: KNKOD: 0192<br>KNNAMN: Nynäshamn<br>KNKOD: 0192<br>KNNAMN: Nynäshamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0192
-KNNAMN: Nynäshamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0192</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nynäshamn</value>
           </Data>
         </ExtendedData>
@@ -2533,17 +2325,9 @@ KNNAMN: Nynäshamn</value>
       </Placemark>
       <Placemark>
         <name>Håbo</name>
-        <description><![CDATA[description: KNKOD: 0305<br>KNNAMN: Håbo<br>KNKOD: 0305<br>KNNAMN: Håbo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0305
-KNNAMN: Håbo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0305</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Håbo</value>
           </Data>
         </ExtendedData>
@@ -2586,17 +2370,9 @@ KNNAMN: Håbo</value>
       </Placemark>
       <Placemark>
         <name>Älvkarleby</name>
-        <description><![CDATA[description: KNKOD: 0319<br>KNNAMN: Älvkarleby<br>KNKOD: 0319<br>KNNAMN: Älvkarleby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0319
-KNNAMN: Älvkarleby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0319</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Älvkarleby</value>
           </Data>
         </ExtendedData>
@@ -2619,17 +2395,9 @@ KNNAMN: Älvkarleby</value>
       </Placemark>
       <Placemark>
         <name>Knivsta</name>
-        <description><![CDATA[description: KNKOD: 0330<br>KNNAMN: Knivsta<br>KNKOD: 0330<br>KNNAMN: Knivsta]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0330
-KNNAMN: Knivsta</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0330</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Knivsta</value>
           </Data>
         </ExtendedData>
@@ -2702,17 +2470,9 @@ KNNAMN: Knivsta</value>
       </Placemark>
       <Placemark>
         <name>Heby</name>
-        <description><![CDATA[description: KNKOD: 0331<br>KNNAMN: Heby<br>KNKOD: 0331<br>KNNAMN: Heby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0331
-KNNAMN: Heby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0331</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Heby</value>
           </Data>
         </ExtendedData>
@@ -2759,17 +2519,9 @@ KNNAMN: Heby</value>
       </Placemark>
       <Placemark>
         <name>Tierp</name>
-        <description><![CDATA[description: KNKOD: 0360<br>KNNAMN: Tierp<br>KNKOD: 0360<br>KNNAMN: Tierp]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0360
-KNNAMN: Tierp</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0360</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tierp</value>
           </Data>
         </ExtendedData>
@@ -2815,17 +2567,9 @@ KNNAMN: Tierp</value>
       </Placemark>
       <Placemark>
         <name>Uppsala</name>
-        <description><![CDATA[description: KNKOD: 0380<br>KNNAMN: Uppsala<br>KNKOD: 0380<br>KNNAMN: Uppsala]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0380
-KNNAMN: Uppsala</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0380</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Uppsala</value>
           </Data>
         </ExtendedData>
@@ -2913,17 +2657,9 @@ KNNAMN: Uppsala</value>
       </Placemark>
       <Placemark>
         <name>Enköping</name>
-        <description><![CDATA[description: KNKOD: 0381<br>KNNAMN: Enköping<br>KNKOD: 0381<br>KNNAMN: Enköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0381
-KNNAMN: Enköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0381</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Enköping</value>
           </Data>
         </ExtendedData>
@@ -2968,17 +2704,9 @@ KNNAMN: Enköping</value>
       </Placemark>
       <Placemark>
         <name>Östhammar</name>
-        <description><![CDATA[description: KNKOD: 0382<br>KNNAMN: Östhammar<br>KNKOD: 0382<br>KNNAMN: Östhammar]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0382
-KNNAMN: Östhammar</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0382</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Östhammar</value>
           </Data>
         </ExtendedData>
@@ -3030,17 +2758,9 @@ KNNAMN: Östhammar</value>
       </Placemark>
       <Placemark>
         <name>Vingåker</name>
-        <description><![CDATA[description: KNKOD: 0428<br>KNNAMN: Vingåker<br>KNKOD: 0428<br>KNNAMN: Vingåker]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0428
-KNNAMN: Vingåker</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0428</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vingåker</value>
           </Data>
         </ExtendedData>
@@ -3074,17 +2794,9 @@ KNNAMN: Vingåker</value>
       </Placemark>
       <Placemark>
         <name>Gnesta</name>
-        <description><![CDATA[description: KNKOD: 0461<br>KNNAMN: Gnesta<br>KNKOD: 0461<br>KNNAMN: Gnesta]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0461
-KNNAMN: Gnesta</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0461</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gnesta</value>
           </Data>
         </ExtendedData>
@@ -3122,17 +2834,9 @@ KNNAMN: Gnesta</value>
       </Placemark>
       <Placemark>
         <name>Nyköping</name>
-        <description><![CDATA[description: KNKOD: 0480<br>KNNAMN: Nyköping<br>KNKOD: 0480<br>KNNAMN: Nyköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0480
-KNNAMN: Nyköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0480</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nyköping</value>
           </Data>
         </ExtendedData>
@@ -3198,17 +2902,9 @@ KNNAMN: Nyköping</value>
       </Placemark>
       <Placemark>
         <name>Oxelösund</name>
-        <description><![CDATA[description: KNKOD: 0481<br>KNNAMN: Oxelösund<br>KNKOD: 0481<br>KNNAMN: Oxelösund]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0481
-KNNAMN: Oxelösund</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0481</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Oxelösund</value>
           </Data>
         </ExtendedData>
@@ -3231,17 +2927,9 @@ KNNAMN: Oxelösund</value>
       </Placemark>
       <Placemark>
         <name>Flen</name>
-        <description><![CDATA[description: KNKOD: 0482<br>KNNAMN: Flen<br>KNKOD: 0482<br>KNNAMN: Flen]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0482
-KNNAMN: Flen</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0482</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Flen</value>
           </Data>
         </ExtendedData>
@@ -3288,17 +2976,9 @@ KNNAMN: Flen</value>
       </Placemark>
       <Placemark>
         <name>Katrineholm</name>
-        <description><![CDATA[description: KNKOD: 0483<br>KNNAMN: Katrineholm<br>KNKOD: 0483<br>KNNAMN: Katrineholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0483
-KNNAMN: Katrineholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0483</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Katrineholm</value>
           </Data>
         </ExtendedData>
@@ -3348,17 +3028,9 @@ KNNAMN: Katrineholm</value>
       </Placemark>
       <Placemark>
         <name>Eskilstuna</name>
-        <description><![CDATA[description: KNKOD: 0484<br>KNNAMN: Eskilstuna<br>KNKOD: 0484<br>KNNAMN: Eskilstuna]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0484
-KNNAMN: Eskilstuna</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0484</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Eskilstuna</value>
           </Data>
         </ExtendedData>
@@ -3406,17 +3078,9 @@ KNNAMN: Eskilstuna</value>
       </Placemark>
       <Placemark>
         <name>Strängnäs</name>
-        <description><![CDATA[description: KNKOD: 0486<br>KNNAMN: Strängnäs<br>KNKOD: 0486<br>KNNAMN: Strängnäs]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0486
-KNNAMN: Strängnäs</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0486</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Strängnäs</value>
           </Data>
         </ExtendedData>
@@ -3460,17 +3124,9 @@ KNNAMN: Strängnäs</value>
       </Placemark>
       <Placemark>
         <name>Trosa</name>
-        <description><![CDATA[description: KNKOD: 0488<br>KNNAMN: Trosa<br>KNKOD: 0488<br>KNNAMN: Trosa]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0488
-KNNAMN: Trosa</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0488</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Trosa</value>
           </Data>
         </ExtendedData>
@@ -3506,17 +3162,9 @@ KNNAMN: Trosa</value>
       </Placemark>
       <Placemark>
         <name>Ödeshög</name>
-        <description><![CDATA[description: KNKOD: 0509<br>KNNAMN: Ödeshög<br>KNKOD: 0509<br>KNNAMN: Ödeshög]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0509
-KNNAMN: Ödeshög</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0509</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ödeshög</value>
           </Data>
         </ExtendedData>
@@ -3551,17 +3199,9 @@ KNNAMN: Ödeshög</value>
       </Placemark>
       <Placemark>
         <name>Ydre</name>
-        <description><![CDATA[description: KNKOD: 0512<br>KNNAMN: Ydre<br>KNKOD: 0512<br>KNNAMN: Ydre]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0512
-KNNAMN: Ydre</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0512</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ydre</value>
           </Data>
         </ExtendedData>
@@ -3603,17 +3243,9 @@ KNNAMN: Ydre</value>
       </Placemark>
       <Placemark>
         <name>Kinda</name>
-        <description><![CDATA[description: KNKOD: 0513<br>KNNAMN: Kinda<br>KNKOD: 0513<br>KNNAMN: Kinda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0513
-KNNAMN: Kinda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0513</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kinda</value>
           </Data>
         </ExtendedData>
@@ -3668,17 +3300,9 @@ KNNAMN: Kinda</value>
       </Placemark>
       <Placemark>
         <name>Boxholm</name>
-        <description><![CDATA[description: KNKOD: 0560<br>KNNAMN: Boxholm<br>KNKOD: 0560<br>KNNAMN: Boxholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0560
-KNNAMN: Boxholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0560</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Boxholm</value>
           </Data>
         </ExtendedData>
@@ -3719,17 +3343,9 @@ KNNAMN: Boxholm</value>
       </Placemark>
       <Placemark>
         <name>Åtvidaberg</name>
-        <description><![CDATA[description: KNKOD: 0561<br>KNNAMN: Åtvidaberg<br>KNKOD: 0561<br>KNNAMN: Åtvidaberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0561
-KNNAMN: Åtvidaberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0561</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Åtvidaberg</value>
           </Data>
         </ExtendedData>
@@ -3777,17 +3393,9 @@ KNNAMN: Åtvidaberg</value>
       </Placemark>
       <Placemark>
         <name>Finspång</name>
-        <description><![CDATA[description: KNKOD: 0562<br>KNNAMN: Finspång<br>KNKOD: 0562<br>KNNAMN: Finspång]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0562
-KNNAMN: Finspång</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0562</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Finspång</value>
           </Data>
         </ExtendedData>
@@ -3837,17 +3445,9 @@ KNNAMN: Finspång</value>
       </Placemark>
       <Placemark>
         <name>Valdemarsvik</name>
-        <description><![CDATA[description: KNKOD: 0563<br>KNNAMN: Valdemarsvik<br>KNKOD: 0563<br>KNNAMN: Valdemarsvik]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0563
-KNNAMN: Valdemarsvik</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0563</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Valdemarsvik</value>
           </Data>
         </ExtendedData>
@@ -3892,17 +3492,9 @@ KNNAMN: Valdemarsvik</value>
       </Placemark>
       <Placemark>
         <name>Linköping</name>
-        <description><![CDATA[description: KNKOD: 0580<br>KNNAMN: Linköping<br>KNKOD: 0580<br>KNNAMN: Linköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0580
-KNNAMN: Linköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0580</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Linköping</value>
           </Data>
         </ExtendedData>
@@ -3967,17 +3559,9 @@ KNNAMN: Linköping</value>
       </Placemark>
       <Placemark>
         <name>Norrköping</name>
-        <description><![CDATA[description: KNKOD: 0581<br>KNNAMN: Norrköping<br>KNKOD: 0581<br>KNNAMN: Norrköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0581
-KNNAMN: Norrköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0581</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Norrköping</value>
           </Data>
         </ExtendedData>
@@ -4046,17 +3630,9 @@ KNNAMN: Norrköping</value>
       </Placemark>
       <Placemark>
         <name>Söderköping</name>
-        <description><![CDATA[description: KNKOD: 0582<br>KNNAMN: Söderköping<br>KNKOD: 0582<br>KNNAMN: Söderköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0582
-KNNAMN: Söderköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0582</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Söderköping</value>
           </Data>
         </ExtendedData>
@@ -4102,17 +3678,9 @@ KNNAMN: Söderköping</value>
       </Placemark>
       <Placemark>
         <name>Motala</name>
-        <description><![CDATA[description: KNKOD: 0583<br>KNNAMN: Motala<br>KNKOD: 0583<br>KNNAMN: Motala]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0583
-KNNAMN: Motala</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0583</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Motala</value>
           </Data>
         </ExtendedData>
@@ -4163,17 +3731,9 @@ KNNAMN: Motala</value>
       </Placemark>
       <Placemark>
         <name>Vadstena</name>
-        <description><![CDATA[description: KNKOD: 0584<br>KNNAMN: Vadstena<br>KNKOD: 0584<br>KNNAMN: Vadstena]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0584
-KNNAMN: Vadstena</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0584</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vadstena</value>
           </Data>
         </ExtendedData>
@@ -4207,17 +3767,9 @@ KNNAMN: Vadstena</value>
       </Placemark>
       <Placemark>
         <name>Miölby</name>
-        <description><![CDATA[description: KNKOD: 0586<br>KNNAMN: Mjölby<br>KNKOD: 0586<br>KNNAMN: Mjölby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0586
-KNNAMN: Mjölby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0586</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mjölby</value>
           </Data>
         </ExtendedData>
@@ -4263,17 +3815,9 @@ KNNAMN: Mjölby</value>
       </Placemark>
       <Placemark>
         <name>Aneby</name>
-        <description><![CDATA[description: KNKOD: 0604<br>KNNAMN: Aneby<br>KNKOD: 0604<br>KNNAMN: Aneby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0604
-KNNAMN: Aneby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0604</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Aneby</value>
           </Data>
         </ExtendedData>
@@ -4318,17 +3862,9 @@ KNNAMN: Aneby</value>
       </Placemark>
       <Placemark>
         <name>Gnosjö</name>
-        <description><![CDATA[description: KNKOD: 0617<br>KNNAMN: Gnosjö<br>KNKOD: 0617<br>KNNAMN: Gnosjö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0617
-KNNAMN: Gnosjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0617</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gnosjö</value>
           </Data>
         </ExtendedData>
@@ -4372,17 +3908,9 @@ KNNAMN: Gnosjö</value>
       </Placemark>
       <Placemark>
         <name>Mullsjö</name>
-        <description><![CDATA[description: KNKOD: 0642<br>KNNAMN: Mullsjö<br>KNKOD: 0642<br>KNNAMN: Mullsjö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0642
-KNNAMN: Mullsjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0642</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mullsjö</value>
           </Data>
         </ExtendedData>
@@ -4417,17 +3945,9 @@ KNNAMN: Mullsjö</value>
       </Placemark>
       <Placemark>
         <name>Habo</name>
-        <description><![CDATA[description: KNKOD: 0643<br>KNNAMN: Habo<br>KNKOD: 0643<br>KNNAMN: Habo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0643
-KNNAMN: Habo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0643</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Habo</value>
           </Data>
         </ExtendedData>
@@ -4466,17 +3986,9 @@ KNNAMN: Habo</value>
       </Placemark>
       <Placemark>
         <name>Gislaved</name>
-        <description><![CDATA[description: KNKOD: 0662<br>KNNAMN: Gislaved<br>KNKOD: 0662<br>KNNAMN: Gislaved]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0662
-KNNAMN: Gislaved</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0662</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gislaved</value>
           </Data>
         </ExtendedData>
@@ -4553,17 +4065,9 @@ KNNAMN: Gislaved</value>
       </Placemark>
       <Placemark>
         <name>Vaggeryd</name>
-        <description><![CDATA[description: KNKOD: 0665<br>KNNAMN: Vaggeryd<br>KNKOD: 0665<br>KNNAMN: Vaggeryd]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0665
-KNNAMN: Vaggeryd</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0665</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vaggeryd</value>
           </Data>
         </ExtendedData>
@@ -4616,17 +4120,9 @@ KNNAMN: Vaggeryd</value>
       </Placemark>
       <Placemark>
         <name>Jönköping</name>
-        <description><![CDATA[description: KNKOD: 0680<br>KNNAMN: Jönköping<br>KNKOD: 0680<br>KNNAMN: Jönköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0680
-KNNAMN: Jönköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0680</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Jönköping</value>
           </Data>
         </ExtendedData>
@@ -4705,17 +4201,9 @@ KNNAMN: Jönköping</value>
       </Placemark>
       <Placemark>
         <name>Nässjö</name>
-        <description><![CDATA[description: KNKOD: 0682<br>KNNAMN: Nässjö<br>KNKOD: 0682<br>KNNAMN: Nässjö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0682
-KNNAMN: Nässjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0682</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nässjö</value>
           </Data>
         </ExtendedData>
@@ -4767,17 +4255,9 @@ KNNAMN: Nässjö</value>
       </Placemark>
       <Placemark>
         <name>Värnamo</name>
-        <description><![CDATA[description: KNKOD: 0683<br>KNNAMN: Värnamo<br>KNKOD: 0683<br>KNNAMN: Värnamo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0683
-KNNAMN: Värnamo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0683</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Värnamo</value>
           </Data>
         </ExtendedData>
@@ -4841,17 +4321,9 @@ KNNAMN: Värnamo</value>
       </Placemark>
       <Placemark>
         <name>Sävsjö</name>
-        <description><![CDATA[description: KNKOD: 0684<br>KNNAMN: Sävsjö<br>KNKOD: 0684<br>KNNAMN: Sävsjö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0684
-KNNAMN: Sävsjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0684</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sävsjö</value>
           </Data>
         </ExtendedData>
@@ -4893,17 +4365,9 @@ KNNAMN: Sävsjö</value>
       </Placemark>
       <Placemark>
         <name>Vetlanda</name>
-        <description><![CDATA[description: KNKOD: 0685<br>KNNAMN: Vetlanda<br>KNKOD: 0685<br>KNNAMN: Vetlanda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0685
-KNNAMN: Vetlanda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0685</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vetlanda</value>
           </Data>
         </ExtendedData>
@@ -4966,17 +4430,9 @@ KNNAMN: Vetlanda</value>
       </Placemark>
       <Placemark>
         <name>Eksjö</name>
-        <description><![CDATA[description: KNKOD: 0686<br>KNNAMN: Eksjö<br>KNKOD: 0686<br>KNNAMN: Eksjö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0686
-KNNAMN: Eksjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0686</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Eksjö</value>
           </Data>
         </ExtendedData>
@@ -5019,17 +4475,9 @@ KNNAMN: Eksjö</value>
       </Placemark>
       <Placemark>
         <name>Tranås</name>
-        <description><![CDATA[description: KNKOD: 0687<br>KNNAMN: Tranås<br>KNKOD: 0687<br>KNNAMN: Tranås]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0687
-KNNAMN: Tranås</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0687</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tranås</value>
           </Data>
         </ExtendedData>
@@ -5063,17 +4511,9 @@ KNNAMN: Tranås</value>
       </Placemark>
       <Placemark>
         <name>Uppvidinge</name>
-        <description><![CDATA[description: KNKOD: 0760<br>KNNAMN: Uppvidinge<br>KNKOD: 0760<br>KNNAMN: Uppvidinge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0760
-KNNAMN: Uppvidinge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0760</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Uppvidinge</value>
           </Data>
         </ExtendedData>
@@ -5125,17 +4565,9 @@ KNNAMN: Uppvidinge</value>
       </Placemark>
       <Placemark>
         <name>Lessebo</name>
-        <description><![CDATA[description: KNKOD: 0761<br>KNNAMN: Lessebo<br>KNKOD: 0761<br>KNNAMN: Lessebo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0761
-KNNAMN: Lessebo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0761</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lessebo</value>
           </Data>
         </ExtendedData>
@@ -5175,17 +4607,9 @@ KNNAMN: Lessebo</value>
       </Placemark>
       <Placemark>
         <name>Tingsryd</name>
-        <description><![CDATA[description: KNKOD: 0763<br>KNNAMN: Tingsryd<br>KNKOD: 0763<br>KNNAMN: Tingsryd]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0763
-KNNAMN: Tingsryd</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0763</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tingsryd</value>
           </Data>
         </ExtendedData>
@@ -5240,17 +4664,9 @@ KNNAMN: Tingsryd</value>
       </Placemark>
       <Placemark>
         <name>Alvesta</name>
-        <description><![CDATA[description: KNKOD: 0764<br>KNNAMN: Alvesta<br>KNKOD: 0764<br>KNNAMN: Alvesta]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0764
-KNNAMN: Alvesta</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0764</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Alvesta</value>
           </Data>
         </ExtendedData>
@@ -5298,17 +4714,9 @@ KNNAMN: Alvesta</value>
       </Placemark>
       <Placemark>
         <name>Älmhult</name>
-        <description><![CDATA[description: KNKOD: 0765<br>KNNAMN: Älmhult<br>KNKOD: 0765<br>KNNAMN: Älmhult]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0765
-KNNAMN: Älmhult</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0765</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Älmhult</value>
           </Data>
         </ExtendedData>
@@ -5359,17 +4767,9 @@ KNNAMN: Älmhult</value>
       </Placemark>
       <Placemark>
         <name>Markaryd</name>
-        <description><![CDATA[description: KNKOD: 0767<br>KNNAMN: Markaryd<br>KNKOD: 0767<br>KNNAMN: Markaryd]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0767
-KNNAMN: Markaryd</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0767</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Markaryd</value>
           </Data>
         </ExtendedData>
@@ -5409,17 +4809,9 @@ KNNAMN: Markaryd</value>
       </Placemark>
       <Placemark>
         <name>Växjö</name>
-        <description><![CDATA[description: KNKOD: 0780<br>KNNAMN: Växjö<br>KNKOD: 0780<br>KNNAMN: Växjö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0780
-KNNAMN: Växjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0780</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Växjö</value>
           </Data>
         </ExtendedData>
@@ -5480,17 +4872,9 @@ KNNAMN: Växjö</value>
       </Placemark>
       <Placemark>
         <name>Ljungby</name>
-        <description><![CDATA[description: KNKOD: 0781<br>KNNAMN: Ljungby<br>KNKOD: 0781<br>KNNAMN: Ljungby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0781
-KNNAMN: Ljungby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0781</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ljungby</value>
           </Data>
         </ExtendedData>
@@ -5554,17 +4938,9 @@ KNNAMN: Ljungby</value>
       </Placemark>
       <Placemark>
         <name>Högsby</name>
-        <description><![CDATA[description: KNKOD: 0821<br>KNNAMN: Högsby<br>KNKOD: 0821<br>KNNAMN: Högsby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0821
-KNNAMN: Högsby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0821</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Högsby</value>
           </Data>
         </ExtendedData>
@@ -5607,17 +4983,9 @@ KNNAMN: Högsby</value>
       </Placemark>
       <Placemark>
         <name>Torsås</name>
-        <description><![CDATA[description: KNKOD: 0834<br>KNNAMN: Torsås<br>KNKOD: 0834<br>KNNAMN: Torsås]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0834
-KNNAMN: Torsås</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0834</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Torsås</value>
           </Data>
         </ExtendedData>
@@ -5651,17 +5019,9 @@ KNNAMN: Torsås</value>
       </Placemark>
       <Placemark>
         <name>Mörbylånga</name>
-        <description><![CDATA[description: KNKOD: 0840<br>KNNAMN: Mörbylånga<br>KNKOD: 0840<br>KNNAMN: Mörbylånga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0840
-KNNAMN: Mörbylånga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0840</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mörbylånga</value>
           </Data>
         </ExtendedData>
@@ -5703,17 +5063,9 @@ KNNAMN: Mörbylånga</value>
       </Placemark>
       <Placemark>
         <name>Hultsfred</name>
-        <description><![CDATA[description: KNKOD: 0860<br>KNNAMN: Hultsfred<br>KNKOD: 0860<br>KNNAMN: Hultsfred]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0860
-KNNAMN: Hultsfred</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0860</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hultsfred</value>
           </Data>
         </ExtendedData>
@@ -5770,17 +5122,9 @@ KNNAMN: Hultsfred</value>
       </Placemark>
       <Placemark>
         <name>Mönsterås</name>
-        <description><![CDATA[description: KNKOD: 0861<br>KNNAMN: Mönsterås<br>KNKOD: 0861<br>KNNAMN: Mönsterås]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0861
-KNNAMN: Mönsterås</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0861</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mönsterås</value>
           </Data>
         </ExtendedData>
@@ -5816,17 +5160,9 @@ KNNAMN: Mönsterås</value>
       </Placemark>
       <Placemark>
         <name>Emmaboda</name>
-        <description><![CDATA[description: KNKOD: 0862<br>KNNAMN: Emmaboda<br>KNKOD: 0862<br>KNNAMN: Emmaboda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0862
-KNNAMN: Emmaboda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0862</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Emmaboda</value>
           </Data>
         </ExtendedData>
@@ -5876,17 +5212,9 @@ KNNAMN: Emmaboda</value>
       </Placemark>
       <Placemark>
         <name>Kalmar</name>
-        <description><![CDATA[description: KNKOD: 0880<br>KNNAMN: Kalmar<br>KNKOD: 0880<br>KNNAMN: Kalmar]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0880
-KNNAMN: Kalmar</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0880</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kalmar</value>
           </Data>
         </ExtendedData>
@@ -5940,17 +5268,9 @@ KNNAMN: Kalmar</value>
       </Placemark>
       <Placemark>
         <name>Nybro</name>
-        <description><![CDATA[description: KNKOD: 0881<br>KNNAMN: Nybro<br>KNKOD: 0881<br>KNNAMN: Nybro]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0881
-KNNAMN: Nybro</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0881</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nybro</value>
           </Data>
         </ExtendedData>
@@ -6007,17 +5327,9 @@ KNNAMN: Nybro</value>
       </Placemark>
       <Placemark>
         <name>Oskarshamn</name>
-        <description><![CDATA[description: KNKOD: 0882<br>KNNAMN: Oskarshamn<br>KNKOD: 0882<br>KNNAMN: Oskarshamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0882
-KNNAMN: Oskarshamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0882</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Oskarshamn</value>
           </Data>
         </ExtendedData>
@@ -6068,17 +5380,9 @@ KNNAMN: Oskarshamn</value>
       </Placemark>
       <Placemark>
         <name>Västervik</name>
-        <description><![CDATA[description: KNKOD: 0883<br>KNNAMN: Västervik<br>KNKOD: 0883<br>KNNAMN: Västervik]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0883
-KNNAMN: Västervik</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0883</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Västervik</value>
           </Data>
         </ExtendedData>
@@ -6143,17 +5447,9 @@ KNNAMN: Västervik</value>
       </Placemark>
       <Placemark>
         <name>Vimmerby</name>
-        <description><![CDATA[description: KNKOD: 0884<br>KNNAMN: Vimmerby<br>KNKOD: 0884<br>KNNAMN: Vimmerby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0884
-KNNAMN: Vimmerby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0884</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vimmerby</value>
           </Data>
         </ExtendedData>
@@ -6207,17 +5503,9 @@ KNNAMN: Vimmerby</value>
       </Placemark>
       <Placemark>
         <name>Borgholm</name>
-        <description><![CDATA[description: KNKOD: 0885<br>KNNAMN: Borgholm<br>KNKOD: 0885<br>KNNAMN: Borgholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0885
-KNNAMN: Borgholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0885</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Borgholm</value>
           </Data>
         </ExtendedData>
@@ -6275,17 +5563,9 @@ KNNAMN: Borgholm</value>
       </Placemark>
       <Placemark>
         <name>Gotland</name>
-        <description><![CDATA[description: KNKOD: 0980<br>KNNAMN: Gotland<br>KNKOD: 0980<br>KNNAMN: Gotland]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 0980
-KNNAMN: Gotland</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>0980</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gotland</value>
           </Data>
         </ExtendedData>
@@ -6380,17 +5660,9 @@ KNNAMN: Gotland</value>
       </Placemark>
       <Placemark>
         <name>Olofström</name>
-        <description><![CDATA[description: KNKOD: 1060<br>KNNAMN: Olofström<br>KNKOD: 1060<br>KNNAMN: Olofström]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1060
-KNNAMN: Olofström</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1060</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Olofström</value>
           </Data>
         </ExtendedData>
@@ -6424,17 +5696,9 @@ KNNAMN: Olofström</value>
       </Placemark>
       <Placemark>
         <name>Karlskrona</name>
-        <description><![CDATA[description: KNKOD: 1080<br>KNNAMN: Karlskrona<br>KNKOD: 1080<br>KNNAMN: Karlskrona]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1080
-KNNAMN: Karlskrona</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1080</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Karlskrona</value>
           </Data>
         </ExtendedData>
@@ -6489,17 +5753,9 @@ KNNAMN: Karlskrona</value>
       </Placemark>
       <Placemark>
         <name>Ronneby</name>
-        <description><![CDATA[description: KNKOD: 1081<br>KNNAMN: Ronneby<br>KNKOD: 1081<br>KNNAMN: Ronneby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1081
-KNNAMN: Ronneby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1081</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ronneby</value>
           </Data>
         </ExtendedData>
@@ -6555,17 +5811,9 @@ KNNAMN: Ronneby</value>
       </Placemark>
       <Placemark>
         <name>Karlshamn</name>
-        <description><![CDATA[description: KNKOD: 1082<br>KNNAMN: Karlshamn<br>KNKOD: 1082<br>KNNAMN: Karlshamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1082
-KNNAMN: Karlshamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1082</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Karlshamn</value>
           </Data>
         </ExtendedData>
@@ -6604,17 +5852,9 @@ KNNAMN: Karlshamn</value>
       </Placemark>
       <Placemark>
         <name>Sölvesborg</name>
-        <description><![CDATA[description: KNKOD: 1083<br>KNNAMN: Sölvesborg<br>KNKOD: 1083<br>KNNAMN: Sölvesborg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1083
-KNNAMN: Sölvesborg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1083</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sölvesborg</value>
           </Data>
         </ExtendedData>
@@ -6643,17 +5883,9 @@ KNNAMN: Sölvesborg</value>
       </Placemark>
       <Placemark>
         <name>Svalöv</name>
-        <description><![CDATA[description: KNKOD: 1214<br>KNNAMN: Svalöv<br>KNKOD: 1214<br>KNNAMN: Svalöv]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1214
-KNNAMN: Svalöv</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1214</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Svalöv</value>
           </Data>
         </ExtendedData>
@@ -6698,17 +5930,9 @@ KNNAMN: Svalöv</value>
       </Placemark>
       <Placemark>
         <name>Staffanstorp</name>
-        <description><![CDATA[description: KNKOD: 1230<br>KNNAMN: Staffanstorp<br>KNKOD: 1230<br>KNNAMN: Staffanstorp]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1230
-KNNAMN: Staffanstorp</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1230</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Staffanstorp</value>
           </Data>
         </ExtendedData>
@@ -6753,17 +5977,9 @@ KNNAMN: Staffanstorp</value>
       </Placemark>
       <Placemark>
         <name>Burlöv</name>
-        <description><![CDATA[description: KNKOD: 1231<br>KNNAMN: Burlöv<br>KNKOD: 1231<br>KNNAMN: Burlöv]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1231
-KNNAMN: Burlöv</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1231</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Burlöv</value>
           </Data>
         </ExtendedData>
@@ -6796,17 +6012,9 @@ KNNAMN: Burlöv</value>
       </Placemark>
       <Placemark>
         <name>Vellinge</name>
-        <description><![CDATA[description: KNKOD: 1233<br>KNNAMN: Vellinge<br>KNKOD: 1233<br>KNNAMN: Vellinge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1233
-KNNAMN: Vellinge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1233</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vellinge</value>
           </Data>
         </ExtendedData>
@@ -6857,17 +6065,9 @@ KNNAMN: Vellinge</value>
       </Placemark>
       <Placemark>
         <name>Östra Göinge</name>
-        <description><![CDATA[description: KNKOD: 1256<br>KNNAMN: Östra Göinge<br>KNKOD: 1256<br>KNNAMN: Östra Göinge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1256
-KNNAMN: Östra Göinge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1256</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Östra Göinge</value>
           </Data>
         </ExtendedData>
@@ -6908,17 +6108,9 @@ KNNAMN: Östra Göinge</value>
       </Placemark>
       <Placemark>
         <name>Örkelljunga</name>
-        <description><![CDATA[description: KNKOD: 1257<br>KNNAMN: Örkelljunga<br>KNKOD: 1257<br>KNNAMN: Örkelljunga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1257
-KNNAMN: Örkelljunga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1257</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Örkelljunga</value>
           </Data>
         </ExtendedData>
@@ -6955,17 +6147,9 @@ KNNAMN: Örkelljunga</value>
       </Placemark>
       <Placemark>
         <name>Bjuv</name>
-        <description><![CDATA[description: KNKOD: 1260<br>KNNAMN: Bjuv<br>KNKOD: 1260<br>KNNAMN: Bjuv]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1260
-KNNAMN: Bjuv</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1260</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bjuv</value>
           </Data>
         </ExtendedData>
@@ -6994,17 +6178,9 @@ KNNAMN: Bjuv</value>
       </Placemark>
       <Placemark>
         <name>Kävlinge</name>
-        <description><![CDATA[description: KNKOD: 1261<br>KNNAMN: Kävlinge<br>KNKOD: 1261<br>KNNAMN: Kävlinge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1261
-KNNAMN: Kävlinge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1261</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kävlinge</value>
           </Data>
         </ExtendedData>
@@ -7043,17 +6219,9 @@ KNNAMN: Kävlinge</value>
       </Placemark>
       <Placemark>
         <name>Lomma</name>
-        <description><![CDATA[description: KNKOD: 1262<br>KNNAMN: Lomma<br>KNKOD: 1262<br>KNNAMN: Lomma]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1262
-KNNAMN: Lomma</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1262</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lomma</value>
           </Data>
         </ExtendedData>
@@ -7091,17 +6259,9 @@ KNNAMN: Lomma</value>
       </Placemark>
       <Placemark>
         <name>Svedala</name>
-        <description><![CDATA[description: KNKOD: 1263<br>KNNAMN: Svedala<br>KNKOD: 1263<br>KNNAMN: Svedala]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1263
-KNNAMN: Svedala</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1263</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Svedala</value>
           </Data>
         </ExtendedData>
@@ -7146,17 +6306,9 @@ KNNAMN: Svedala</value>
       </Placemark>
       <Placemark>
         <name>Skurup</name>
-        <description><![CDATA[description: KNKOD: 1264<br>KNNAMN: Skurup<br>KNKOD: 1264<br>KNNAMN: Skurup]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1264
-KNNAMN: Skurup</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1264</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Skurup</value>
           </Data>
         </ExtendedData>
@@ -7190,17 +6342,9 @@ KNNAMN: Skurup</value>
       </Placemark>
       <Placemark>
         <name>Sjöbo</name>
-        <description><![CDATA[description: KNKOD: 1265<br>KNNAMN: Sjöbo<br>KNKOD: 1265<br>KNNAMN: Sjöbo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1265
-KNNAMN: Sjöbo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1265</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sjöbo</value>
           </Data>
         </ExtendedData>
@@ -7242,17 +6386,9 @@ KNNAMN: Sjöbo</value>
       </Placemark>
       <Placemark>
         <name>Hörby</name>
-        <description><![CDATA[description: KNKOD: 1266<br>KNNAMN: Hörby<br>KNKOD: 1266<br>KNNAMN: Hörby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1266
-KNNAMN: Hörby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1266</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hörby</value>
           </Data>
         </ExtendedData>
@@ -7297,17 +6433,9 @@ KNNAMN: Hörby</value>
       </Placemark>
       <Placemark>
         <name>Höör</name>
-        <description><![CDATA[description: KNKOD: 1267<br>KNNAMN: Höör<br>KNKOD: 1267<br>KNNAMN: Höör]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1267
-KNNAMN: Höör</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1267</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Höör</value>
           </Data>
         </ExtendedData>
@@ -7349,17 +6477,9 @@ KNNAMN: Höör</value>
       </Placemark>
       <Placemark>
         <name>Tomelilla</name>
-        <description><![CDATA[description: KNKOD: 1270<br>KNNAMN: Tomelilla<br>KNKOD: 1270<br>KNNAMN: Tomelilla]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1270
-KNNAMN: Tomelilla</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1270</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tomelilla</value>
           </Data>
         </ExtendedData>
@@ -7402,17 +6522,9 @@ KNNAMN: Tomelilla</value>
       </Placemark>
       <Placemark>
         <name>Bromölla</name>
-        <description><![CDATA[description: KNKOD: 1272<br>KNNAMN: Bromölla<br>KNKOD: 1272<br>KNNAMN: Bromölla]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1272
-KNNAMN: Bromölla</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1272</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bromölla</value>
           </Data>
         </ExtendedData>
@@ -7442,17 +6554,9 @@ KNNAMN: Bromölla</value>
       </Placemark>
       <Placemark>
         <name>Osby</name>
-        <description><![CDATA[description: KNKOD: 1273<br>KNNAMN: Osby<br>KNKOD: 1273<br>KNNAMN: Osby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1273
-KNNAMN: Osby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1273</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Osby</value>
           </Data>
         </ExtendedData>
@@ -7505,17 +6609,9 @@ KNNAMN: Osby</value>
       </Placemark>
       <Placemark>
         <name>Perstorp</name>
-        <description><![CDATA[description: KNKOD: 1275<br>KNNAMN: Perstorp<br>KNKOD: 1275<br>KNNAMN: Perstorp]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1275
-KNNAMN: Perstorp</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1275</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Perstorp</value>
           </Data>
         </ExtendedData>
@@ -7545,17 +6641,9 @@ KNNAMN: Perstorp</value>
       </Placemark>
       <Placemark>
         <name>Klippan</name>
-        <description><![CDATA[description: KNKOD: 1276<br>KNNAMN: Klippan<br>KNKOD: 1276<br>KNNAMN: Klippan]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1276
-KNNAMN: Klippan</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1276</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Klippan</value>
           </Data>
         </ExtendedData>
@@ -7600,17 +6688,9 @@ KNNAMN: Klippan</value>
       </Placemark>
       <Placemark>
         <name>Åstorp</name>
-        <description><![CDATA[description: KNKOD: 1277<br>KNNAMN: Åstorp<br>KNKOD: 1277<br>KNNAMN: Åstorp]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1277
-KNNAMN: Åstorp</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1277</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Åstorp</value>
           </Data>
         </ExtendedData>
@@ -7639,17 +6719,9 @@ KNNAMN: Åstorp</value>
       </Placemark>
       <Placemark>
         <name>Båstad</name>
-        <description><![CDATA[description: KNKOD: 1278<br>KNNAMN: Båstad<br>KNKOD: 1278<br>KNNAMN: Båstad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1278
-KNNAMN: Båstad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1278</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Båstad</value>
           </Data>
         </ExtendedData>
@@ -7680,17 +6752,9 @@ KNNAMN: Båstad</value>
       </Placemark>
       <Placemark>
         <name>Malmö</name>
-        <description><![CDATA[description: KNKOD: 1280<br>KNNAMN: Malmö<br>KNKOD: 1280<br>KNNAMN: Malmö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1280
-KNNAMN: Malmö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1280</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Malmö</value>
           </Data>
         </ExtendedData>
@@ -7727,17 +6791,9 @@ KNNAMN: Malmö</value>
       </Placemark>
       <Placemark>
         <name>Lund</name>
-        <description><![CDATA[description: KNKOD: 1281<br>KNNAMN: Lund<br>KNKOD: 1281<br>KNNAMN: Lund]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1281
-KNNAMN: Lund</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1281</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lund</value>
           </Data>
         </ExtendedData>
@@ -7794,17 +6850,9 @@ KNNAMN: Lund</value>
       </Placemark>
       <Placemark>
         <name>Landskrona</name>
-        <description><![CDATA[description: KNKOD: 1282<br>KNNAMN: Landskrona<br>KNKOD: 1282<br>KNNAMN: Landskrona]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1282
-KNNAMN: Landskrona</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1282</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Landskrona</value>
           </Data>
         </ExtendedData>
@@ -7836,17 +6884,9 @@ KNNAMN: Landskrona</value>
       </Placemark>
       <Placemark>
         <name>Helsingborg</name>
-        <description><![CDATA[description: KNKOD: 1283<br>KNNAMN: Helsingborg<br>KNKOD: 1283<br>KNNAMN: Helsingborg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1283
-KNNAMN: Helsingborg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1283</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Helsingborg</value>
           </Data>
         </ExtendedData>
@@ -7890,17 +6930,9 @@ KNNAMN: Helsingborg</value>
       </Placemark>
       <Placemark>
         <name>Höganäs</name>
-        <description><![CDATA[description: KNKOD: 1284<br>KNNAMN: Höganäs<br>KNKOD: 1284<br>KNNAMN: Höganäs]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1284
-KNNAMN: Höganäs</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1284</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Höganäs</value>
           </Data>
         </ExtendedData>
@@ -7932,17 +6964,9 @@ KNNAMN: Höganäs</value>
       </Placemark>
       <Placemark>
         <name>Lund</name>
-        <description><![CDATA[description: KNKOD: 1285<br>KNNAMN: Eslöv<br>KNKOD: 1285<br>KNNAMN: Eslöv]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1285
-KNNAMN: Eslöv</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1285</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Eslöv</value>
           </Data>
         </ExtendedData>
@@ -8000,17 +7024,9 @@ KNNAMN: Eslöv</value>
       </Placemark>
       <Placemark>
         <name>Ystad</name>
-        <description><![CDATA[description: KNKOD: 1286<br>KNNAMN: Ystad<br>KNKOD: 1286<br>KNNAMN: Ystad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1286
-KNNAMN: Ystad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1286</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ystad</value>
           </Data>
         </ExtendedData>
@@ -8052,17 +7068,9 @@ KNNAMN: Ystad</value>
       </Placemark>
       <Placemark>
         <name>Trelleborg</name>
-        <description><![CDATA[description: KNKOD: 1287<br>KNNAMN: Trelleborg<br>KNKOD: 1287<br>KNNAMN: Trelleborg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1287
-KNNAMN: Trelleborg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1287</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Trelleborg</value>
           </Data>
         </ExtendedData>
@@ -8118,17 +7126,9 @@ KNNAMN: Trelleborg</value>
       </Placemark>
       <Placemark>
         <name>Kristianstad</name>
-        <description><![CDATA[description: KNKOD: 1290<br>KNNAMN: Kristianstad<br>KNKOD: 1290<br>KNNAMN: Kristianstad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1290
-KNNAMN: Kristianstad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1290</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kristianstad</value>
           </Data>
         </ExtendedData>
@@ -8188,17 +7188,9 @@ KNNAMN: Kristianstad</value>
       </Placemark>
       <Placemark>
         <name>Simrishamn</name>
-        <description><![CDATA[description: KNKOD: 1291<br>KNNAMN: Simrishamn<br>KNKOD: 1291<br>KNNAMN: Simrishamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1291
-KNNAMN: Simrishamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1291</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Simrishamn</value>
           </Data>
         </ExtendedData>
@@ -8237,17 +7229,9 @@ KNNAMN: Simrishamn</value>
       </Placemark>
       <Placemark>
         <name>Ängelholm</name>
-        <description><![CDATA[description: KNKOD: 1292<br>KNNAMN: Ängelholm<br>KNKOD: 1292<br>KNNAMN: Ängelholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1292
-KNNAMN: Ängelholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1292</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ängelholm</value>
           </Data>
         </ExtendedData>
@@ -8286,17 +7270,9 @@ KNNAMN: Ängelholm</value>
       </Placemark>
       <Placemark>
         <name>Hässleholm</name>
-        <description><![CDATA[description: KNKOD: 1293<br>KNNAMN: Hässleholm<br>KNKOD: 1293<br>KNNAMN: Hässleholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1293
-KNNAMN: Hässleholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1293</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hässleholm</value>
           </Data>
         </ExtendedData>
@@ -8354,17 +7330,9 @@ KNNAMN: Hässleholm</value>
       </Placemark>
       <Placemark>
         <name>Hylte</name>
-        <description><![CDATA[description: KNKOD: 1315<br>KNNAMN: Hylte<br>KNKOD: 1315<br>KNNAMN: Hylte]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1315
-KNNAMN: Hylte</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1315</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hylte</value>
           </Data>
         </ExtendedData>
@@ -8420,17 +7388,9 @@ KNNAMN: Hylte</value>
       </Placemark>
       <Placemark>
         <name>Halmstad</name>
-        <description><![CDATA[description: KNKOD: 1380<br>KNNAMN: Halmstad<br>KNKOD: 1380<br>KNNAMN: Halmstad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1380
-KNNAMN: Halmstad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1380</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Halmstad</value>
           </Data>
         </ExtendedData>
@@ -8478,17 +7438,9 @@ KNNAMN: Halmstad</value>
       </Placemark>
       <Placemark>
         <name>Laholm</name>
-        <description><![CDATA[description: KNKOD: 1381<br>KNNAMN: Laholm<br>KNKOD: 1381<br>KNNAMN: Laholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1381
-KNNAMN: Laholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1381</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Laholm</value>
           </Data>
         </ExtendedData>
@@ -8532,17 +7484,9 @@ KNNAMN: Laholm</value>
       </Placemark>
       <Placemark>
         <name>Falkenberg</name>
-        <description><![CDATA[description: KNKOD: 1382<br>KNNAMN: Falkenberg<br>KNKOD: 1382<br>KNNAMN: Falkenberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1382
-KNNAMN: Falkenberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1382</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Falkenberg</value>
           </Data>
         </ExtendedData>
@@ -8606,17 +7550,9 @@ KNNAMN: Falkenberg</value>
       </Placemark>
       <Placemark>
         <name>Varberg</name>
-        <description><![CDATA[description: KNKOD: 1383<br>KNNAMN: Varberg<br>KNKOD: 1383<br>KNNAMN: Varberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1383
-KNNAMN: Varberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1383</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Varberg</value>
           </Data>
         </ExtendedData>
@@ -8666,17 +7602,9 @@ KNNAMN: Varberg</value>
       </Placemark>
       <Placemark>
         <name>Kungsbacka</name>
-        <description><![CDATA[description: KNKOD: 1384<br>KNNAMN: Kungsbacka<br>KNKOD: 1384<br>KNNAMN: Kungsbacka]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1384
-KNNAMN: Kungsbacka</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1384</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kungsbacka</value>
           </Data>
         </ExtendedData>
@@ -8732,17 +7660,9 @@ KNNAMN: Kungsbacka</value>
       </Placemark>
       <Placemark>
         <name>Härryda</name>
-        <description><![CDATA[description: KNKOD: 1401<br>KNNAMN: Härryda<br>KNKOD: 1401<br>KNNAMN: Härryda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1401
-KNNAMN: Härryda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1401</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Härryda</value>
           </Data>
         </ExtendedData>
@@ -8782,17 +7702,9 @@ KNNAMN: Härryda</value>
       </Placemark>
       <Placemark>
         <name>Partille</name>
-        <description><![CDATA[description: KNKOD: 1402<br>KNNAMN: Partille<br>KNKOD: 1402<br>KNNAMN: Partille]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1402
-KNNAMN: Partille</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1402</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Partille</value>
           </Data>
         </ExtendedData>
@@ -8824,17 +7736,9 @@ KNNAMN: Partille</value>
       </Placemark>
       <Placemark>
         <name>Öckerö</name>
-        <description><![CDATA[description: KNKOD: 1407<br>KNNAMN: Öckerö<br>KNKOD: 1407<br>KNNAMN: Öckerö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1407
-KNNAMN: Öckerö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1407</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Öckerö</value>
           </Data>
         </ExtendedData>
@@ -8883,17 +7787,9 @@ KNNAMN: Öckerö</value>
       </Placemark>
       <Placemark>
         <name>Stenungsund</name>
-        <description><![CDATA[description: KNKOD: 1415<br>KNNAMN: Stenungsund<br>KNKOD: 1415<br>KNNAMN: Stenungsund]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1415
-KNNAMN: Stenungsund</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1415</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Stenungsund</value>
           </Data>
         </ExtendedData>
@@ -8953,17 +7849,9 @@ KNNAMN: Stenungsund</value>
       </Placemark>
       <Placemark>
         <name>Tjörn</name>
-        <description><![CDATA[description: KNKOD: 1419<br>KNNAMN: Tjörn<br>KNKOD: 1419<br>KNNAMN: Tjörn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1419
-KNNAMN: Tjörn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1419</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tjörn</value>
           </Data>
         </ExtendedData>
@@ -9026,17 +7914,9 @@ KNNAMN: Tjörn</value>
       </Placemark>
       <Placemark>
         <name>Orust</name>
-        <description><![CDATA[description: KNKOD: 1421<br>KNNAMN: Orust<br>KNKOD: 1421<br>KNNAMN: Orust]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1421
-KNNAMN: Orust</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1421</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Orust</value>
           </Data>
         </ExtendedData>
@@ -9147,17 +8027,9 @@ KNNAMN: Orust</value>
       </Placemark>
       <Placemark>
         <name>Sotenäs</name>
-        <description><![CDATA[description: KNKOD: 1427<br>KNNAMN: Sotenäs<br>KNKOD: 1427<br>KNNAMN: Sotenäs]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1427
-KNNAMN: Sotenäs</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1427</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sotenäs</value>
           </Data>
         </ExtendedData>
@@ -9198,17 +8070,9 @@ KNNAMN: Sotenäs</value>
       </Placemark>
       <Placemark>
         <name>Munkedal</name>
-        <description><![CDATA[description: KNKOD: 1430<br>KNNAMN: Munkedal<br>KNKOD: 1430<br>KNNAMN: Munkedal]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1430
-KNNAMN: Munkedal</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1430</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Munkedal</value>
           </Data>
         </ExtendedData>
@@ -9265,17 +8129,9 @@ KNNAMN: Munkedal</value>
       </Placemark>
       <Placemark>
         <name>Tanum</name>
-        <description><![CDATA[description: KNKOD: 1435<br>KNNAMN: Tanum<br>KNKOD: 1435<br>KNNAMN: Tanum]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1435
-KNNAMN: Tanum</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1435</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tanum</value>
           </Data>
         </ExtendedData>
@@ -9329,17 +8185,9 @@ KNNAMN: Tanum</value>
       </Placemark>
       <Placemark>
         <name>Dals-Ed</name>
-        <description><![CDATA[description: KNKOD: 1438<br>KNNAMN: Dals-Ed<br>KNKOD: 1438<br>KNNAMN: Dals-Ed]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1438
-KNNAMN: Dals-Ed</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1438</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Dals-Ed</value>
           </Data>
         </ExtendedData>
@@ -9387,17 +8235,9 @@ KNNAMN: Dals-Ed</value>
       </Placemark>
       <Placemark>
         <name>Färgelanda</name>
-        <description><![CDATA[description: KNKOD: 1439<br>KNNAMN: Färgelanda<br>KNKOD: 1439<br>KNNAMN: Färgelanda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1439
-KNNAMN: Färgelanda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1439</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Färgelanda</value>
           </Data>
         </ExtendedData>
@@ -9436,17 +8276,9 @@ KNNAMN: Färgelanda</value>
       </Placemark>
       <Placemark>
         <name>Ale</name>
-        <description><![CDATA[description: KNKOD: 1440<br>KNNAMN: Ale<br>KNKOD: 1440<br>KNNAMN: Ale]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1440
-KNNAMN: Ale</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1440</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ale</value>
           </Data>
         </ExtendedData>
@@ -9496,17 +8328,9 @@ KNNAMN: Ale</value>
       </Placemark>
       <Placemark>
         <name>Lerum</name>
-        <description><![CDATA[description: KNKOD: 1441<br>KNNAMN: Lerum<br>KNKOD: 1441<br>KNNAMN: Lerum]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1441
-KNNAMN: Lerum</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1441</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lerum</value>
           </Data>
         </ExtendedData>
@@ -9556,17 +8380,9 @@ KNNAMN: Lerum</value>
       </Placemark>
       <Placemark>
         <name>Vårgårda</name>
-        <description><![CDATA[description: KNKOD: 1442<br>KNNAMN: Vårgårda<br>KNKOD: 1442<br>KNNAMN: Vårgårda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1442
-KNNAMN: Vårgårda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1442</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vårgårda</value>
           </Data>
         </ExtendedData>
@@ -9599,17 +8415,9 @@ KNNAMN: Vårgårda</value>
       </Placemark>
       <Placemark>
         <name>Bollebygd</name>
-        <description><![CDATA[description: KNKOD: 1443<br>KNNAMN: Bollebygd<br>KNKOD: 1443<br>KNNAMN: Bollebygd]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1443
-KNNAMN: Bollebygd</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1443</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bollebygd</value>
           </Data>
         </ExtendedData>
@@ -9648,17 +8456,9 @@ KNNAMN: Bollebygd</value>
       </Placemark>
       <Placemark>
         <name>Grästorp</name>
-        <description><![CDATA[description: KNKOD: 1444<br>KNNAMN: Grästorp<br>KNKOD: 1444<br>KNNAMN: Grästorp]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1444
-KNNAMN: Grästorp</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1444</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Grästorp</value>
           </Data>
         </ExtendedData>
@@ -9694,17 +8494,9 @@ KNNAMN: Grästorp</value>
       </Placemark>
       <Placemark>
         <name>Essunga</name>
-        <description><![CDATA[description: KNKOD: 1445<br>KNNAMN: Essunga<br>KNKOD: 1445<br>KNNAMN: Essunga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1445
-KNNAMN: Essunga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1445</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Essunga</value>
           </Data>
         </ExtendedData>
@@ -9743,17 +8535,9 @@ KNNAMN: Essunga</value>
       </Placemark>
       <Placemark>
         <name>Karlsborg</name>
-        <description><![CDATA[description: KNKOD: 1446<br>KNNAMN: Karlsborg<br>KNKOD: 1446<br>KNNAMN: Karlsborg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1446
-KNNAMN: Karlsborg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1446</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Karlsborg</value>
           </Data>
         </ExtendedData>
@@ -9799,17 +8583,9 @@ KNNAMN: Karlsborg</value>
       </Placemark>
       <Placemark>
         <name>Gullspång</name>
-        <description><![CDATA[description: KNKOD: 1447<br>KNNAMN: Gullspång<br>KNKOD: 1447<br>KNNAMN: Gullspång]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1447
-KNNAMN: Gullspång</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1447</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gullspång</value>
           </Data>
         </ExtendedData>
@@ -9840,17 +8616,9 @@ KNNAMN: Gullspång</value>
       </Placemark>
       <Placemark>
         <name>Tranemo</name>
-        <description><![CDATA[description: KNKOD: 1452<br>KNNAMN: Tranemo<br>KNKOD: 1452<br>KNNAMN: Tranemo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1452
-KNNAMN: Tranemo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1452</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tranemo</value>
           </Data>
         </ExtendedData>
@@ -9905,17 +8673,9 @@ KNNAMN: Tranemo</value>
       </Placemark>
       <Placemark>
         <name>Bengtsfors</name>
-        <description><![CDATA[description: KNKOD: 1460<br>KNNAMN: Bengtsfors<br>KNKOD: 1460<br>KNNAMN: Bengtsfors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1460
-KNNAMN: Bengtsfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1460</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bengtsfors</value>
           </Data>
         </ExtendedData>
@@ -9969,17 +8729,9 @@ KNNAMN: Bengtsfors</value>
       </Placemark>
       <Placemark>
         <name>Mellerud</name>
-        <description><![CDATA[description: KNKOD: 1461<br>KNNAMN: Mellerud<br>KNKOD: 1461<br>KNNAMN: Mellerud]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1461
-KNNAMN: Mellerud</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1461</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mellerud</value>
           </Data>
         </ExtendedData>
@@ -10017,17 +8769,9 @@ KNNAMN: Mellerud</value>
       </Placemark>
       <Placemark>
         <name>Lilla Edet</name>
-        <description><![CDATA[description: KNKOD: 1462<br>KNNAMN: Lilla Edet<br>KNKOD: 1462<br>KNNAMN: Lilla Edet]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1462
-KNNAMN: Lilla Edet</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1462</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lilla Edet</value>
           </Data>
         </ExtendedData>
@@ -10071,17 +8815,9 @@ KNNAMN: Lilla Edet</value>
       </Placemark>
       <Placemark>
         <name>Mark</name>
-        <description><![CDATA[description: KNKOD: 1463<br>KNNAMN: Mark<br>KNKOD: 1463<br>KNNAMN: Mark]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1463
-KNNAMN: Mark</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1463</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mark</value>
           </Data>
         </ExtendedData>
@@ -10135,17 +8871,9 @@ KNNAMN: Mark</value>
       </Placemark>
       <Placemark>
         <name>Svenljunga</name>
-        <description><![CDATA[description: KNKOD: 1465<br>KNNAMN: Svenljunga<br>KNKOD: 1465<br>KNNAMN: Svenljunga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1465
-KNNAMN: Svenljunga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1465</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Svenljunga</value>
           </Data>
         </ExtendedData>
@@ -10205,17 +8933,9 @@ KNNAMN: Svenljunga</value>
       </Placemark>
       <Placemark>
         <name>Herrljunga</name>
-        <description><![CDATA[description: KNKOD: 1466<br>KNNAMN: Herrljunga<br>KNKOD: 1466<br>KNNAMN: Herrljunga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1466
-KNNAMN: Herrljunga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1466</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Herrljunga</value>
           </Data>
         </ExtendedData>
@@ -10254,17 +8974,9 @@ KNNAMN: Herrljunga</value>
       </Placemark>
       <Placemark>
         <name>Vara</name>
-        <description><![CDATA[description: KNKOD: 1470<br>KNNAMN: Vara<br>KNKOD: 1470<br>KNNAMN: Vara]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1470
-KNNAMN: Vara</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1470</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vara</value>
           </Data>
         </ExtendedData>
@@ -10310,17 +9022,9 @@ KNNAMN: Vara</value>
       </Placemark>
       <Placemark>
         <name>Götene</name>
-        <description><![CDATA[description: KNKOD: 1471<br>KNNAMN: Götene<br>KNKOD: 1471<br>KNNAMN: Götene]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1471
-KNNAMN: Götene</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1471</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Götene</value>
           </Data>
         </ExtendedData>
@@ -10356,17 +9060,9 @@ KNNAMN: Götene</value>
       </Placemark>
       <Placemark>
         <name>Tibro</name>
-        <description><![CDATA[description: KNKOD: 1472<br>KNNAMN: Tibro<br>KNKOD: 1472<br>KNNAMN: Tibro]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1472
-KNNAMN: Tibro</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1472</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tibro</value>
           </Data>
         </ExtendedData>
@@ -10398,17 +9094,9 @@ KNNAMN: Tibro</value>
       </Placemark>
       <Placemark>
         <name>Töreboda</name>
-        <description><![CDATA[description: KNKOD: 1473<br>KNNAMN: Töreboda<br>KNKOD: 1473<br>KNNAMN: Töreboda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1473
-KNNAMN: Töreboda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1473</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Töreboda</value>
           </Data>
         </ExtendedData>
@@ -10452,17 +9140,9 @@ KNNAMN: Töreboda</value>
       </Placemark>
       <Placemark>
         <name>Göteborg</name>
-        <description><![CDATA[description: KNKOD: 1480<br>KNNAMN: Göteborg<br>KNKOD: 1480<br>KNNAMN: Göteborg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1480
-KNNAMN: Göteborg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1480</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Göteborg</value>
           </Data>
         </ExtendedData>
@@ -10535,17 +9215,9 @@ KNNAMN: Göteborg</value>
       </Placemark>
       <Placemark>
         <name>Mölndal</name>
-        <description><![CDATA[description: KNKOD: 1481<br>KNNAMN: Mölndal<br>KNKOD: 1481<br>KNNAMN: Mölndal]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1481
-KNNAMN: Mölndal</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1481</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mölndal</value>
           </Data>
         </ExtendedData>
@@ -10577,17 +9249,9 @@ KNNAMN: Mölndal</value>
       </Placemark>
       <Placemark>
         <name>Kungälv</name>
-        <description><![CDATA[description: KNKOD: 1482<br>KNNAMN: Kungälv<br>KNKOD: 1482<br>KNNAMN: Kungälv]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1482
-KNNAMN: Kungälv</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1482</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kungälv</value>
           </Data>
         </ExtendedData>
@@ -10658,17 +9322,9 @@ KNNAMN: Kungälv</value>
       </Placemark>
       <Placemark>
         <name>Lysekil</name>
-        <description><![CDATA[description: KNKOD: 1484<br>KNNAMN: Lysekil<br>KNKOD: 1484<br>KNNAMN: Lysekil]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1484
-KNNAMN: Lysekil</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1484</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lysekil</value>
           </Data>
         </ExtendedData>
@@ -10730,17 +9386,9 @@ KNNAMN: Lysekil</value>
       </Placemark>
       <Placemark>
         <name>Uddevalla</name>
-        <description><![CDATA[description: KNKOD: 1485<br>KNNAMN: Uddevalla<br>KNKOD: 1485<br>KNNAMN: Uddevalla]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1485
-KNNAMN: Uddevalla</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1485</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Uddevalla</value>
           </Data>
         </ExtendedData>
@@ -10803,17 +9451,9 @@ KNNAMN: Uddevalla</value>
       </Placemark>
       <Placemark>
         <name>Strömstad</name>
-        <description><![CDATA[description: KNKOD: 1486<br>KNNAMN: Strömstad<br>KNKOD: 1486<br>KNNAMN: Strömstad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1486
-KNNAMN: Strömstad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1486</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Strömstad</value>
           </Data>
         </ExtendedData>
@@ -10855,17 +9495,9 @@ KNNAMN: Strömstad</value>
       </Placemark>
       <Placemark>
         <name>Vänersborg</name>
-        <description><![CDATA[description: KNKOD: 1487<br>KNNAMN: Vänersborg<br>KNKOD: 1487<br>KNNAMN: Vänersborg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1487
-KNNAMN: Vänersborg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1487</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vänersborg</value>
           </Data>
         </ExtendedData>
@@ -10912,17 +9544,9 @@ KNNAMN: Vänersborg</value>
       </Placemark>
       <Placemark>
         <name>Trollhättan</name>
-        <description><![CDATA[description: KNKOD: 1488<br>KNNAMN: Trollhättan<br>KNKOD: 1488<br>KNNAMN: Trollhättan]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1488
-KNNAMN: Trollhättan</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1488</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Trollhättan</value>
           </Data>
         </ExtendedData>
@@ -10963,17 +9587,9 @@ KNNAMN: Trollhättan</value>
       </Placemark>
       <Placemark>
         <name>Alingsås</name>
-        <description><![CDATA[description: KNKOD: 1489<br>KNNAMN: Alingsås<br>KNKOD: 1489<br>KNNAMN: Alingsås]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1489
-KNNAMN: Alingsås</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1489</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Alingsås</value>
           </Data>
         </ExtendedData>
@@ -11026,17 +9642,9 @@ KNNAMN: Alingsås</value>
       </Placemark>
       <Placemark>
         <name>Borås</name>
-        <description><![CDATA[description: KNKOD: 1490<br>KNNAMN: Borås<br>KNKOD: 1490<br>KNNAMN: Borås]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1490
-KNNAMN: Borås</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1490</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Borås</value>
           </Data>
         </ExtendedData>
@@ -11091,17 +9699,9 @@ KNNAMN: Borås</value>
       </Placemark>
       <Placemark>
         <name>Ulricehamn</name>
-        <description><![CDATA[description: KNKOD: 1491<br>KNNAMN: Ulricehamn<br>KNKOD: 1491<br>KNNAMN: Ulricehamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1491
-KNNAMN: Ulricehamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1491</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ulricehamn</value>
           </Data>
         </ExtendedData>
@@ -11151,17 +9751,9 @@ KNNAMN: Ulricehamn</value>
       </Placemark>
       <Placemark>
         <name>Åmål</name>
-        <description><![CDATA[description: KNKOD: 1492<br>KNNAMN: Åmål<br>KNKOD: 1492<br>KNNAMN: Åmål]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1492
-KNNAMN: Åmål</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1492</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Åmål</value>
           </Data>
         </ExtendedData>
@@ -11192,17 +9784,9 @@ KNNAMN: Åmål</value>
       </Placemark>
       <Placemark>
         <name>Mariestad</name>
-        <description><![CDATA[description: KNKOD: 1493<br>KNNAMN: Mariestad<br>KNKOD: 1493<br>KNNAMN: Mariestad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1493
-KNNAMN: Mariestad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1493</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mariestad</value>
           </Data>
         </ExtendedData>
@@ -11256,17 +9840,9 @@ KNNAMN: Mariestad</value>
       </Placemark>
       <Placemark>
         <name>Lidköping</name>
-        <description><![CDATA[description: KNKOD: 1494<br>KNNAMN: Lidköping<br>KNKOD: 1494<br>KNNAMN: Lidköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1494
-KNNAMN: Lidköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1494</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lidköping</value>
           </Data>
         </ExtendedData>
@@ -11313,17 +9889,9 @@ KNNAMN: Lidköping</value>
       </Placemark>
       <Placemark>
         <name>Skara</name>
-        <description><![CDATA[description: KNKOD: 1495<br>KNNAMN: Skara<br>KNKOD: 1495<br>KNNAMN: Skara]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1495
-KNNAMN: Skara</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1495</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Skara</value>
           </Data>
         </ExtendedData>
@@ -11364,17 +9932,9 @@ KNNAMN: Skara</value>
       </Placemark>
       <Placemark>
         <name>Skövde</name>
-        <description><![CDATA[description: KNKOD: 1496<br>KNNAMN: Skövde<br>KNKOD: 1496<br>KNNAMN: Skövde]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1496
-KNNAMN: Skövde</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1496</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Skövde</value>
           </Data>
         </ExtendedData>
@@ -11426,17 +9986,9 @@ KNNAMN: Skövde</value>
       </Placemark>
       <Placemark>
         <name>Hjo</name>
-        <description><![CDATA[description: KNKOD: 1497<br>KNNAMN: Hjo<br>KNKOD: 1497<br>KNNAMN: Hjo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1497
-KNNAMN: Hjo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1497</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hjo</value>
           </Data>
         </ExtendedData>
@@ -11477,17 +10029,9 @@ KNNAMN: Hjo</value>
       </Placemark>
       <Placemark>
         <name>Tidaholm</name>
-        <description><![CDATA[description: KNKOD: 1498<br>KNNAMN: Tidaholm<br>KNKOD: 1498<br>KNNAMN: Tidaholm]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1498
-KNNAMN: Tidaholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1498</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Tidaholm</value>
           </Data>
         </ExtendedData>
@@ -11530,17 +10074,9 @@ KNNAMN: Tidaholm</value>
       </Placemark>
       <Placemark>
         <name>Falköping</name>
-        <description><![CDATA[description: KNKOD: 1499<br>KNNAMN: Falköping<br>KNKOD: 1499<br>KNNAMN: Falköping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1499
-KNNAMN: Falköping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1499</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Falköping</value>
           </Data>
         </ExtendedData>
@@ -11602,17 +10138,9 @@ KNNAMN: Falköping</value>
       </Placemark>
       <Placemark>
         <name>Kil</name>
-        <description><![CDATA[description: KNKOD: 1715<br>KNNAMN: Kil<br>KNKOD: 1715<br>KNNAMN: Kil]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1715
-KNNAMN: Kil</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1715</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kil</value>
           </Data>
         </ExtendedData>
@@ -11642,17 +10170,9 @@ KNNAMN: Kil</value>
       </Placemark>
       <Placemark>
         <name>Eda</name>
-        <description><![CDATA[description: KNKOD: 1730<br>KNNAMN: Eda<br>KNKOD: 1730<br>KNNAMN: Eda]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1730
-KNNAMN: Eda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1730</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Eda</value>
           </Data>
         </ExtendedData>
@@ -11691,17 +10211,9 @@ KNNAMN: Eda</value>
       </Placemark>
       <Placemark>
         <name>Torsby</name>
-        <description><![CDATA[description: KNKOD: 1737<br>KNNAMN: Torsby<br>KNKOD: 1737<br>KNNAMN: Torsby]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1737
-KNNAMN: Torsby</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1737</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Torsby</value>
           </Data>
         </ExtendedData>
@@ -11753,17 +10265,9 @@ KNNAMN: Torsby</value>
       </Placemark>
       <Placemark>
         <name>Storfors</name>
-        <description><![CDATA[description: KNKOD: 1760<br>KNNAMN: Storfors<br>KNKOD: 1760<br>KNNAMN: Storfors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1760
-KNNAMN: Storfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1760</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Storfors</value>
           </Data>
         </ExtendedData>
@@ -11797,17 +10301,9 @@ KNNAMN: Storfors</value>
       </Placemark>
       <Placemark>
         <name>Hammarö</name>
-        <description><![CDATA[description: KNKOD: 1761<br>KNNAMN: Hammarö<br>KNKOD: 1761<br>KNNAMN: Hammarö]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1761
-KNNAMN: Hammarö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1761</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hammarö</value>
           </Data>
         </ExtendedData>
@@ -11829,17 +10325,9 @@ KNNAMN: Hammarö</value>
       </Placemark>
       <Placemark>
         <name>Munkfors</name>
-        <description><![CDATA[description: KNKOD: 1762<br>KNNAMN: Munkfors<br>KNKOD: 1762<br>KNNAMN: Munkfors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1762
-KNNAMN: Munkfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1762</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Munkfors</value>
           </Data>
         </ExtendedData>
@@ -11865,17 +10353,9 @@ KNNAMN: Munkfors</value>
       </Placemark>
       <Placemark>
         <name>Forshaga</name>
-        <description><![CDATA[description: KNKOD: 1763<br>KNNAMN: Forshaga<br>KNKOD: 1763<br>KNNAMN: Forshaga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1763
-KNNAMN: Forshaga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1763</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Forshaga</value>
           </Data>
         </ExtendedData>
@@ -11908,17 +10388,9 @@ KNNAMN: Forshaga</value>
       </Placemark>
       <Placemark>
         <name>Grums</name>
-        <description><![CDATA[description: KNKOD: 1764<br>KNNAMN: Grums<br>KNKOD: 1764<br>KNNAMN: Grums]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1764
-KNNAMN: Grums</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1764</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Grums</value>
           </Data>
         </ExtendedData>
@@ -11948,17 +10420,9 @@ KNNAMN: Grums</value>
       </Placemark>
       <Placemark>
         <name>Årjäng</name>
-        <description><![CDATA[description: KNKOD: 1765<br>KNNAMN: Årjäng<br>KNKOD: 1765<br>KNNAMN: Årjäng]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1765
-KNNAMN: Årjäng</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1765</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Årjäng</value>
           </Data>
         </ExtendedData>
@@ -12002,17 +10466,9 @@ KNNAMN: Årjäng</value>
       </Placemark>
       <Placemark>
         <name>Sunne</name>
-        <description><![CDATA[description: KNKOD: 1766<br>KNNAMN: Sunne<br>KNKOD: 1766<br>KNNAMN: Sunne]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1766
-KNNAMN: Sunne</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1766</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sunne</value>
           </Data>
         </ExtendedData>
@@ -12053,17 +10509,9 @@ KNNAMN: Sunne</value>
       </Placemark>
       <Placemark>
         <name>Karlstad</name>
-        <description><![CDATA[description: KNKOD: 1780<br>KNNAMN: Karlstad<br>KNKOD: 1780<br>KNNAMN: Karlstad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1780
-KNNAMN: Karlstad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1780</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Karlstad</value>
           </Data>
         </ExtendedData>
@@ -12112,17 +10560,9 @@ KNNAMN: Karlstad</value>
       </Placemark>
       <Placemark>
         <name>Kristinehamn</name>
-        <description><![CDATA[description: KNKOD: 1781<br>KNNAMN: Kristinehamn<br>KNKOD: 1781<br>KNNAMN: Kristinehamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1781
-KNNAMN: Kristinehamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1781</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kristinehamn</value>
           </Data>
         </ExtendedData>
@@ -12166,17 +10606,9 @@ KNNAMN: Kristinehamn</value>
       </Placemark>
       <Placemark>
         <name>Filipstad</name>
-        <description><![CDATA[description: KNKOD: 1782<br>KNNAMN: Filipstad<br>KNKOD: 1782<br>KNNAMN: Filipstad]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1782
-KNNAMN: Filipstad</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1782</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Filipstad</value>
           </Data>
         </ExtendedData>
@@ -12226,17 +10658,9 @@ KNNAMN: Filipstad</value>
       </Placemark>
       <Placemark>
         <name>Hagfors</name>
-        <description><![CDATA[description: KNKOD: 1783<br>KNNAMN: Hagfors<br>KNKOD: 1783<br>KNNAMN: Hagfors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1783
-KNNAMN: Hagfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1783</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hagfors</value>
           </Data>
         </ExtendedData>
@@ -12281,17 +10705,9 @@ KNNAMN: Hagfors</value>
       </Placemark>
       <Placemark>
         <name>Arvika</name>
-        <description><![CDATA[description: KNKOD: 1784<br>KNNAMN: Arvika<br>KNKOD: 1784<br>KNNAMN: Arvika]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1784
-KNNAMN: Arvika</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1784</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Arvika</value>
           </Data>
         </ExtendedData>
@@ -12345,17 +10761,9 @@ KNNAMN: Arvika</value>
       </Placemark>
       <Placemark>
         <name>Säffle</name>
-        <description><![CDATA[description: KNKOD: 1785<br>KNNAMN: Säffle<br>KNKOD: 1785<br>KNNAMN: Säffle]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1785
-KNNAMN: Säffle</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1785</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Säffle</value>
           </Data>
         </ExtendedData>
@@ -12400,17 +10808,9 @@ KNNAMN: Säffle</value>
       </Placemark>
       <Placemark>
         <name>Lekeberg</name>
-        <description><![CDATA[description: KNKOD: 1814<br>KNNAMN: Lekeberg<br>KNKOD: 1814<br>KNNAMN: Lekeberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1814
-KNNAMN: Lekeberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1814</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lekeberg</value>
           </Data>
         </ExtendedData>
@@ -12450,17 +10850,9 @@ KNNAMN: Lekeberg</value>
       </Placemark>
       <Placemark>
         <name>Laxå</name>
-        <description><![CDATA[description: KNKOD: 1860<br>KNNAMN: Laxå<br>KNKOD: 1860<br>KNNAMN: Laxå]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1860
-KNNAMN: Laxå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1860</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Laxå</value>
           </Data>
         </ExtendedData>
@@ -12501,17 +10893,9 @@ KNNAMN: Laxå</value>
       </Placemark>
       <Placemark>
         <name>Hallsberg</name>
-        <description><![CDATA[description: KNKOD: 1861<br>KNNAMN: Hallsberg<br>KNKOD: 1861<br>KNNAMN: Hallsberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1861
-KNNAMN: Hallsberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1861</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hallsberg</value>
           </Data>
         </ExtendedData>
@@ -12556,17 +10940,9 @@ KNNAMN: Hallsberg</value>
       </Placemark>
       <Placemark>
         <name>Degerfors</name>
-        <description><![CDATA[description: KNKOD: 1862<br>KNNAMN: Degerfors<br>KNKOD: 1862<br>KNNAMN: Degerfors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1862
-KNNAMN: Degerfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1862</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Degerfors</value>
           </Data>
         </ExtendedData>
@@ -12600,17 +10976,9 @@ KNNAMN: Degerfors</value>
       </Placemark>
       <Placemark>
         <name>Hällefors</name>
-        <description><![CDATA[description: KNKOD: 1863<br>KNNAMN: Hällefors<br>KNKOD: 1863<br>KNNAMN: Hällefors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1863
-KNNAMN: Hällefors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1863</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hällefors</value>
           </Data>
         </ExtendedData>
@@ -12652,17 +11020,9 @@ KNNAMN: Hällefors</value>
       </Placemark>
       <Placemark>
         <name>Ljusnarsberg</name>
-        <description><![CDATA[description: KNKOD: 1864<br>KNNAMN: Ljusnarsberg<br>KNKOD: 1864<br>KNNAMN: Ljusnarsberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1864
-KNNAMN: Ljusnarsberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1864</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ljusnarsberg</value>
           </Data>
         </ExtendedData>
@@ -12695,17 +11055,9 @@ KNNAMN: Ljusnarsberg</value>
       </Placemark>
       <Placemark>
         <name>Örebro</name>
-        <description><![CDATA[description: KNKOD: 1880<br>KNNAMN: Örebro<br>KNKOD: 1880<br>KNNAMN: Örebro]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1880
-KNNAMN: Örebro</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1880</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Örebro</value>
           </Data>
         </ExtendedData>
@@ -12768,17 +11120,9 @@ KNNAMN: Örebro</value>
       </Placemark>
       <Placemark>
         <name>Kumla</name>
-        <description><![CDATA[description: KNKOD: 1881<br>KNNAMN: Kumla<br>KNKOD: 1881<br>KNNAMN: Kumla]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1881
-KNNAMN: Kumla</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1881</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kumla</value>
           </Data>
         </ExtendedData>
@@ -12808,17 +11152,9 @@ KNNAMN: Kumla</value>
       </Placemark>
       <Placemark>
         <name>Askersund</name>
-        <description><![CDATA[description: KNKOD: 1882<br>KNNAMN: Askersund<br>KNKOD: 1882<br>KNNAMN: Askersund]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1882
-KNNAMN: Askersund</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1882</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Askersund</value>
           </Data>
         </ExtendedData>
@@ -12861,17 +11197,9 @@ KNNAMN: Askersund</value>
       </Placemark>
       <Placemark>
         <name>Karlskoga</name>
-        <description><![CDATA[description: KNKOD: 1883<br>KNNAMN: Karlskoga<br>KNKOD: 1883<br>KNNAMN: Karlskoga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1883
-KNNAMN: Karlskoga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1883</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Karlskoga</value>
           </Data>
         </ExtendedData>
@@ -12905,17 +11233,9 @@ KNNAMN: Karlskoga</value>
       </Placemark>
       <Placemark>
         <name>Nora</name>
-        <description><![CDATA[description: KNKOD: 1884<br>KNNAMN: Nora<br>KNKOD: 1884<br>KNNAMN: Nora]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1884
-KNNAMN: Nora</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1884</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nora</value>
           </Data>
         </ExtendedData>
@@ -12956,17 +11276,9 @@ KNNAMN: Nora</value>
       </Placemark>
       <Placemark>
         <name>Lindesberg</name>
-        <description><![CDATA[description: KNKOD: 1885<br>KNNAMN: Lindesberg<br>KNKOD: 1885<br>KNNAMN: Lindesberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1885
-KNNAMN: Lindesberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1885</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lindesberg</value>
           </Data>
         </ExtendedData>
@@ -13013,17 +11325,9 @@ KNNAMN: Lindesberg</value>
       </Placemark>
       <Placemark>
         <name>Skinnskatteberg</name>
-        <description><![CDATA[description: KNKOD: 1904<br>KNNAMN: Skinnskatteberg<br>KNKOD: 1904<br>KNNAMN: Skinnskatteberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1904
-KNNAMN: Skinnskatteberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1904</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Skinnskatteberg</value>
           </Data>
         </ExtendedData>
@@ -13060,17 +11364,9 @@ KNNAMN: Skinnskatteberg</value>
       </Placemark>
       <Placemark>
         <name>Surahammar</name>
-        <description><![CDATA[description: KNKOD: 1907<br>KNNAMN: Surahammar<br>KNKOD: 1907<br>KNNAMN: Surahammar]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1907
-KNNAMN: Surahammar</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1907</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Surahammar</value>
           </Data>
         </ExtendedData>
@@ -13100,17 +11396,9 @@ KNNAMN: Surahammar</value>
       </Placemark>
       <Placemark>
         <name>Kungsör</name>
-        <description><![CDATA[description: KNKOD: 1960<br>KNNAMN: Kungsör<br>KNKOD: 1960<br>KNNAMN: Kungsör]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1960
-KNNAMN: Kungsör</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1960</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kungsör</value>
           </Data>
         </ExtendedData>
@@ -13141,17 +11429,9 @@ KNNAMN: Kungsör</value>
       </Placemark>
       <Placemark>
         <name>Hallstahammar</name>
-        <description><![CDATA[description: KNKOD: 1961<br>KNNAMN: Hallstahammar<br>KNKOD: 1961<br>KNNAMN: Hallstahammar]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1961
-KNNAMN: Hallstahammar</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1961</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hallstahammar</value>
           </Data>
         </ExtendedData>
@@ -13177,17 +11457,9 @@ KNNAMN: Hallstahammar</value>
       </Placemark>
       <Placemark>
         <name>Norberg</name>
-        <description><![CDATA[description: KNKOD: 1962<br>KNNAMN: Norberg<br>KNKOD: 1962<br>KNNAMN: Norberg]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1962
-KNNAMN: Norberg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1962</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Norberg</value>
           </Data>
         </ExtendedData>
@@ -13226,17 +11498,9 @@ KNNAMN: Norberg</value>
       </Placemark>
       <Placemark>
         <name>Västerås</name>
-        <description><![CDATA[description: KNKOD: 1980<br>KNNAMN: Västerås<br>KNKOD: 1980<br>KNNAMN: Västerås]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1980
-KNNAMN: Västerås</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1980</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Västerås</value>
           </Data>
         </ExtendedData>
@@ -13280,17 +11544,9 @@ KNNAMN: Västerås</value>
       </Placemark>
       <Placemark>
         <name>Sala</name>
-        <description><![CDATA[description: KNKOD: 1981<br>KNNAMN: Sala<br>KNKOD: 1981<br>KNNAMN: Sala]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1981
-KNNAMN: Sala</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1981</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sala</value>
           </Data>
         </ExtendedData>
@@ -13336,17 +11592,9 @@ KNNAMN: Sala</value>
       </Placemark>
       <Placemark>
         <name>Fagersta</name>
-        <description><![CDATA[description: KNKOD: 1982<br>KNNAMN: Fagersta<br>KNKOD: 1982<br>KNNAMN: Fagersta]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1982
-KNNAMN: Fagersta</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1982</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Fagersta</value>
           </Data>
         </ExtendedData>
@@ -13375,17 +11623,9 @@ KNNAMN: Fagersta</value>
       </Placemark>
       <Placemark>
         <name>Köping</name>
-        <description><![CDATA[description: KNKOD: 1983<br>KNNAMN: Köping<br>KNKOD: 1983<br>KNNAMN: Köping]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1983
-KNNAMN: Köping</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1983</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Köping</value>
           </Data>
         </ExtendedData>
@@ -13427,17 +11667,9 @@ KNNAMN: Köping</value>
       </Placemark>
       <Placemark>
         <name>Arboga</name>
-        <description><![CDATA[description: KNKOD: 1984<br>KNNAMN: Arboga<br>KNKOD: 1984<br>KNNAMN: Arboga]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 1984
-KNNAMN: Arboga</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>1984</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Arboga</value>
           </Data>
         </ExtendedData>
@@ -13471,17 +11703,9 @@ KNNAMN: Arboga</value>
       </Placemark>
       <Placemark>
         <name>Vansbro</name>
-        <description><![CDATA[description: KNKOD: 2021<br>KNNAMN: Vansbro<br>KNKOD: 2021<br>KNNAMN: Vansbro]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2021
-KNNAMN: Vansbro</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2021</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vansbro</value>
           </Data>
         </ExtendedData>
@@ -13514,17 +11738,9 @@ KNNAMN: Vansbro</value>
       </Placemark>
       <Placemark>
         <name>Malung</name>
-        <description><![CDATA[description: KNKOD: 2023<br>KNNAMN: Malung<br>KNKOD: 2023<br>KNNAMN: Malung]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2023
-KNNAMN: Malung</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2023</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Malung</value>
           </Data>
         </ExtendedData>
@@ -13573,17 +11789,9 @@ KNNAMN: Malung</value>
       </Placemark>
       <Placemark>
         <name>Gagnef</name>
-        <description><![CDATA[description: KNKOD: 2026<br>KNNAMN: Gagnef<br>KNKOD: 2026<br>KNNAMN: Gagnef]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2026
-KNNAMN: Gagnef</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2026</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gagnef</value>
           </Data>
         </ExtendedData>
@@ -13618,17 +11826,9 @@ KNNAMN: Gagnef</value>
       </Placemark>
       <Placemark>
         <name>Leksand</name>
-        <description><![CDATA[description: KNKOD: 2029<br>KNNAMN: Leksand<br>KNKOD: 2029<br>KNNAMN: Leksand]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2029
-KNNAMN: Leksand</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2029</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Leksand</value>
           </Data>
         </ExtendedData>
@@ -13675,17 +11875,9 @@ KNNAMN: Leksand</value>
       </Placemark>
       <Placemark>
         <name>Rättvik</name>
-        <description><![CDATA[description: KNKOD: 2031<br>KNNAMN: Rättvik<br>KNKOD: 2031<br>KNNAMN: Rättvik]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2031
-KNNAMN: Rättvik</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2031</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Rättvik</value>
           </Data>
         </ExtendedData>
@@ -13726,17 +11918,9 @@ KNNAMN: Rättvik</value>
       </Placemark>
       <Placemark>
         <name>Orsa</name>
-        <description><![CDATA[description: KNKOD: 2034<br>KNNAMN: Orsa<br>KNKOD: 2034<br>KNNAMN: Orsa]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2034
-KNNAMN: Orsa</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2034</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Orsa</value>
           </Data>
         </ExtendedData>
@@ -13774,17 +11958,9 @@ KNNAMN: Orsa</value>
       </Placemark>
       <Placemark>
         <name>Älvdalen</name>
-        <description><![CDATA[description: KNKOD: 2039<br>KNNAMN: Älvdalen<br>KNKOD: 2039<br>KNNAMN: Älvdalen]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2039
-KNNAMN: Älvdalen</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2039</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Älvdalen</value>
           </Data>
         </ExtendedData>
@@ -13838,17 +12014,9 @@ KNNAMN: Älvdalen</value>
       </Placemark>
       <Placemark>
         <name>Smedjebacken</name>
-        <description><![CDATA[description: KNKOD: 2061<br>KNNAMN: Smedjebacken<br>KNKOD: 2061<br>KNNAMN: Smedjebacken]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2061
-KNNAMN: Smedjebacken</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2061</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Smedjebacken</value>
           </Data>
         </ExtendedData>
@@ -13886,17 +12054,9 @@ KNNAMN: Smedjebacken</value>
       </Placemark>
       <Placemark>
         <name>Mora</name>
-        <description><![CDATA[description: KNKOD: 2062<br>KNNAMN: Mora<br>KNKOD: 2062<br>KNNAMN: Mora]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2062
-KNNAMN: Mora</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2062</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Mora</value>
           </Data>
         </ExtendedData>
@@ -13960,17 +12120,9 @@ KNNAMN: Mora</value>
       </Placemark>
       <Placemark>
         <name>Falun</name>
-        <description><![CDATA[description: KNKOD: 2080<br>KNNAMN: Falun<br>KNKOD: 2080<br>KNNAMN: Falun]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2080
-KNNAMN: Falun</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2080</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Falun</value>
           </Data>
         </ExtendedData>
@@ -14016,17 +12168,9 @@ KNNAMN: Falun</value>
       </Placemark>
       <Placemark>
         <name>Borlänge</name>
-        <description><![CDATA[description: KNKOD: 2081<br>KNNAMN: Borlänge<br>KNKOD: 2081<br>KNNAMN: Borlänge]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2081
-KNNAMN: Borlänge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2081</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Borlänge</value>
           </Data>
         </ExtendedData>
@@ -14061,17 +12205,9 @@ KNNAMN: Borlänge</value>
       </Placemark>
       <Placemark>
         <name>Säter</name>
-        <description><![CDATA[description: KNKOD: 2082<br>KNNAMN: Säter<br>KNKOD: 2082<br>KNNAMN: Säter]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2082
-KNNAMN: Säter</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2082</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Säter</value>
           </Data>
         </ExtendedData>
@@ -14108,17 +12244,9 @@ KNNAMN: Säter</value>
       </Placemark>
       <Placemark>
         <name>Hedemora</name>
-        <description><![CDATA[description: KNKOD: 2083<br>KNNAMN: Hedemora<br>KNKOD: 2083<br>KNNAMN: Hedemora]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2083
-KNNAMN: Hedemora</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2083</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hedemora</value>
           </Data>
         </ExtendedData>
@@ -14159,17 +12287,9 @@ KNNAMN: Hedemora</value>
       </Placemark>
       <Placemark>
         <name>Avesta</name>
-        <description><![CDATA[description: KNKOD: 2084<br>KNNAMN: Avesta<br>KNKOD: 2084<br>KNNAMN: Avesta]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2084
-KNNAMN: Avesta</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2084</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Avesta</value>
           </Data>
         </ExtendedData>
@@ -14212,17 +12332,9 @@ KNNAMN: Avesta</value>
       </Placemark>
       <Placemark>
         <name>Ludvika</name>
-        <description><![CDATA[description: KNKOD: 2085<br>KNNAMN: Ludvika<br>KNKOD: 2085<br>KNNAMN: Ludvika]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2085
-KNNAMN: Ludvika</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2085</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ludvika</value>
           </Data>
         </ExtendedData>
@@ -14267,17 +12379,9 @@ KNNAMN: Ludvika</value>
       </Placemark>
       <Placemark>
         <name>Ockelbo</name>
-        <description><![CDATA[description: KNKOD: 2101<br>KNNAMN: Ockelbo<br>KNKOD: 2101<br>KNNAMN: Ockelbo]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2101
-KNNAMN: Ockelbo</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2101</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ockelbo</value>
           </Data>
         </ExtendedData>
@@ -14311,17 +12415,9 @@ KNNAMN: Ockelbo</value>
       </Placemark>
       <Placemark>
         <name>Hofors</name>
-        <description><![CDATA[description: KNKOD: 2104<br>KNNAMN: Hofors<br>KNKOD: 2104<br>KNNAMN: Hofors]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2104
-KNNAMN: Hofors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2104</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hofors</value>
           </Data>
         </ExtendedData>
@@ -14349,17 +12445,9 @@ KNNAMN: Hofors</value>
       </Placemark>
       <Placemark>
         <name>Ovanåker</name>
-        <description><![CDATA[description: KNKOD: 2121<br>KNNAMN: Ovanåker<br>KNKOD: 2121<br>KNNAMN: Ovanåker]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2121
-KNNAMN: Ovanåker</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2121</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ovanåker</value>
           </Data>
         </ExtendedData>
@@ -14391,17 +12479,9 @@ KNNAMN: Ovanåker</value>
       </Placemark>
       <Placemark>
         <name>Nordanstig</name>
-        <description><![CDATA[description: KNKOD: 2132<br>KNNAMN: Nordanstig<br>KNKOD: 2132<br>KNNAMN: Nordanstig]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2132
-KNNAMN: Nordanstig</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2132</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nordanstig</value>
           </Data>
         </ExtendedData>
@@ -14437,17 +12517,9 @@ KNNAMN: Nordanstig</value>
       </Placemark>
       <Placemark>
         <name>Ljusdal</name>
-        <description><![CDATA[description: KNKOD: 2161<br>KNNAMN: Ljusdal<br>KNKOD: 2161<br>KNNAMN: Ljusdal]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2161
-KNNAMN: Ljusdal</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2161</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ljusdal</value>
           </Data>
         </ExtendedData>
@@ -14505,17 +12577,9 @@ KNNAMN: Ljusdal</value>
       </Placemark>
       <Placemark>
         <name>Gävle</name>
-        <description><![CDATA[description: KNKOD: 2180<br>KNNAMN: Gävle<br>KNKOD: 2180<br>KNNAMN: Gävle]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2180
-KNNAMN: Gävle</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2180</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gävle</value>
           </Data>
         </ExtendedData>
@@ -14559,17 +12623,9 @@ KNNAMN: Gävle</value>
       </Placemark>
       <Placemark>
         <name>Sandviken</name>
-        <description><![CDATA[description: KNKOD: 2181<br>KNNAMN: Sandviken<br>KNKOD: 2181<br>KNNAMN: Sandviken]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2181
-KNNAMN: Sandviken</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2181</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sandviken</value>
           </Data>
         </ExtendedData>
@@ -14616,17 +12672,9 @@ KNNAMN: Sandviken</value>
       </Placemark>
       <Placemark>
         <name>Söderhamn</name>
-        <description><![CDATA[description: KNKOD: 2182<br>KNNAMN: Söderhamn<br>KNKOD: 2182<br>KNNAMN: Söderhamn]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2182
-KNNAMN: Söderhamn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2182</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Söderhamn</value>
           </Data>
         </ExtendedData>
@@ -14662,17 +12710,9 @@ KNNAMN: Söderhamn</value>
       </Placemark>
       <Placemark>
         <name>Bollnäs</name>
-        <description><![CDATA[description: KNKOD: 2183<br>KNNAMN: Bollnäs<br>KNKOD: 2183<br>KNNAMN: Bollnäs]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2183
-KNNAMN: Bollnäs</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2183</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bollnäs</value>
           </Data>
         </ExtendedData>
@@ -14708,17 +12748,9 @@ KNNAMN: Bollnäs</value>
       </Placemark>
       <Placemark>
         <name>Hudiksvall</name>
-        <description><![CDATA[description: KNKOD: 2184<br>KNNAMN: Hudiksvall<br>KNKOD: 2184<br>KNNAMN: Hudiksvall]]></description>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2184
-KNNAMN: Hudiksvall</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2184</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Hudiksvall</value>
           </Data>
         </ExtendedData>
@@ -14766,18 +12798,10 @@ KNNAMN: Hudiksvall</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2260<br>KNNAMN: Ånge<br>KNKOD: 2260<br>KNNAMN: Ånge]]></description>
+        <name>Ånge</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2260
-KNNAMN: Ånge</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2260</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ånge</value>
           </Data>
         </ExtendedData>
@@ -14824,18 +12848,10 @@ KNNAMN: Ånge</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2262<br>KNNAMN: Timrå<br>KNKOD: 2262<br>KNNAMN: Timrå]]></description>
+        <name>Timrå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2262
-KNNAMN: Timrå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2262</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Timrå</value>
           </Data>
         </ExtendedData>
@@ -14870,18 +12886,10 @@ KNNAMN: Timrå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2280<br>KNNAMN: Härnösand<br>KNKOD: 2280<br>KNNAMN: Härnösand]]></description>
+        <name>Härnösand</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2280
-KNNAMN: Härnösand</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2280</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Härnösand</value>
           </Data>
         </ExtendedData>
@@ -14916,18 +12924,10 @@ KNNAMN: Härnösand</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2281<br>KNNAMN: Sundsvall<br>KNKOD: 2281<br>KNNAMN: Sundsvall]]></description>
+        <name>Sundsvall</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2281
-KNNAMN: Sundsvall</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2281</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sundsvall</value>
           </Data>
         </ExtendedData>
@@ -14983,18 +12983,10 @@ KNNAMN: Sundsvall</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2282<br>KNNAMN: Kramfors<br>KNKOD: 2282<br>KNNAMN: Kramfors]]></description>
+        <name>Kramfors</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2282
-KNNAMN: Kramfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2282</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kramfors</value>
           </Data>
         </ExtendedData>
@@ -15036,18 +13028,10 @@ KNNAMN: Kramfors</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2283<br>KNNAMN: Sollefteå<br>KNKOD: 2283<br>KNNAMN: Sollefteå]]></description>
+        <name>Sollefteå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2283
-KNNAMN: Sollefteå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2283</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sollefteå</value>
           </Data>
         </ExtendedData>
@@ -15114,18 +13098,10 @@ KNNAMN: Sollefteå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2284<br>KNNAMN: Örnsköldsvik<br>KNKOD: 2284<br>KNNAMN: Örnsköldsvik]]></description>
+        <name>Örnsköldsvik</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2284
-KNNAMN: Örnsköldsvik</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2284</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Örnsköldsvik</value>
           </Data>
         </ExtendedData>
@@ -15182,18 +13158,10 @@ KNNAMN: Örnsköldsvik</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2303<br>KNNAMN: Ragunda<br>KNKOD: 2303<br>KNNAMN: Ragunda]]></description>
+        <name>Ragunda</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2303
-KNNAMN: Ragunda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2303</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Ragunda</value>
           </Data>
         </ExtendedData>
@@ -15243,18 +13211,10 @@ KNNAMN: Ragunda</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2305<br>KNNAMN: Bräcke<br>KNKOD: 2305<br>KNNAMN: Bräcke]]></description>
+        <name>Bräcke</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2305
-KNNAMN: Bräcke</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2305</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bräcke</value>
           </Data>
         </ExtendedData>
@@ -15312,18 +13272,10 @@ KNNAMN: Bräcke</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2309<br>KNNAMN: Krokom<br>KNKOD: 2309<br>KNNAMN: Krokom]]></description>
+        <name>Krokom</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2309
-KNNAMN: Krokom</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2309</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Krokom</value>
           </Data>
         </ExtendedData>
@@ -15384,18 +13336,10 @@ KNNAMN: Krokom</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2313<br>KNNAMN: Strömsund<br>KNKOD: 2313<br>KNNAMN: Strömsund]]></description>
+        <name>Strömsund</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2313
-KNNAMN: Strömsund</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2313</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Strömsund</value>
           </Data>
         </ExtendedData>
@@ -15480,18 +13424,10 @@ KNNAMN: Strömsund</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2321<br>KNNAMN: Åre<br>KNKOD: 2321<br>KNNAMN: Åre]]></description>
+        <name>Åre</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2321
-KNNAMN: Åre</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2321</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Åre</value>
           </Data>
         </ExtendedData>
@@ -15546,18 +13482,10 @@ KNNAMN: Åre</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2326<br>KNNAMN: Berg<br>KNKOD: 2326<br>KNNAMN: Berg]]></description>
+        <name>Berg</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2326
-KNNAMN: Berg</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2326</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Berg</value>
           </Data>
         </ExtendedData>
@@ -15634,18 +13562,10 @@ KNNAMN: Berg</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2361<br>KNNAMN: Härjedalen<br>KNKOD: 2361<br>KNNAMN: Härjedalen]]></description>
+        <name>Härjedalen</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2361
-KNNAMN: Härjedalen</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2361</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Härjedalen</value>
           </Data>
         </ExtendedData>
@@ -15732,18 +13652,10 @@ KNNAMN: Härjedalen</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2380<br>KNNAMN: Östersund<br>KNKOD: 2380<br>KNNAMN: Östersund]]></description>
+        <name>Östersund</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2380
-KNNAMN: Östersund</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2380</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Östersund</value>
           </Data>
         </ExtendedData>
@@ -15806,18 +13718,10 @@ KNNAMN: Östersund</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2401<br>KNNAMN: Nordmaling<br>KNKOD: 2401<br>KNNAMN: Nordmaling]]></description>
+        <name>Nordmaling</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2401
-KNNAMN: Nordmaling</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2401</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Nordmaling</value>
           </Data>
         </ExtendedData>
@@ -15867,18 +13771,10 @@ KNNAMN: Nordmaling</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2403<br>KNNAMN: Bjurholm<br>KNKOD: 2403<br>KNNAMN: Bjurholm]]></description>
+        <name>Bjurholm</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2403
-KNNAMN: Bjurholm</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2403</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Bjurholm</value>
           </Data>
         </ExtendedData>
@@ -15918,18 +13814,10 @@ KNNAMN: Bjurholm</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2404<br>KNNAMN: Vindeln<br>KNKOD: 2404<br>KNNAMN: Vindeln]]></description>
+        <name>Vindeln</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2404
-KNNAMN: Vindeln</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2404</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vindeln</value>
           </Data>
         </ExtendedData>
@@ -15982,18 +13870,10 @@ KNNAMN: Vindeln</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2409<br>KNNAMN: Robertsfors<br>KNKOD: 2409<br>KNNAMN: Robertsfors]]></description>
+        <name>Robertsfors</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2409
-KNNAMN: Robertsfors</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2409</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Robertsfors</value>
           </Data>
         </ExtendedData>
@@ -16028,18 +13908,10 @@ KNNAMN: Robertsfors</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2417<br>KNNAMN: Norsjö<br>KNKOD: 2417<br>KNNAMN: Norsjö]]></description>
+        <name>Norsjö</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2417
-KNNAMN: Norsjö</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2417</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Norsjö</value>
           </Data>
         </ExtendedData>
@@ -16072,18 +13944,10 @@ KNNAMN: Norsjö</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2418<br>KNNAMN: Malå<br>KNKOD: 2418<br>KNNAMN: Malå]]></description>
+        <name>Malå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2418
-KNNAMN: Malå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2418</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Malå</value>
           </Data>
         </ExtendedData>
@@ -16121,18 +13985,10 @@ KNNAMN: Malå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2421<br>KNNAMN: Storuman<br>KNKOD: 2421<br>KNNAMN: Storuman]]></description>
+        <name>Storuman</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2421
-KNNAMN: Storuman</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2421</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Storuman</value>
           </Data>
         </ExtendedData>
@@ -16174,18 +14030,10 @@ KNNAMN: Storuman</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2422<br>KNNAMN: Sorsele<br>KNKOD: 2422<br>KNNAMN: Sorsele]]></description>
+        <name>Sorsele</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2422
-KNNAMN: Sorsele</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2422</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Sorsele</value>
           </Data>
         </ExtendedData>
@@ -16222,18 +14070,10 @@ KNNAMN: Sorsele</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2425<br>KNNAMN: Dorotea<br>KNKOD: 2425<br>KNNAMN: Dorotea]]></description>
+        <name>Dorotea</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2425
-KNNAMN: Dorotea</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2425</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Dorotea</value>
           </Data>
         </ExtendedData>
@@ -16285,18 +14125,10 @@ KNNAMN: Dorotea</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2460<br>KNNAMN: Vännäs<br>KNKOD: 2460<br>KNNAMN: Vännäs]]></description>
+        <name>Vännäs</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2460
-KNNAMN: Vännäs</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2460</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vännäs</value>
           </Data>
         </ExtendedData>
@@ -16331,18 +14163,10 @@ KNNAMN: Vännäs</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2462<br>KNNAMN: Vilhelmina<br>KNKOD: 2462<br>KNNAMN: Vilhelmina]]></description>
+        <name>Vilhelmina</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2462
-KNNAMN: Vilhelmina</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2462</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Vilhelmina</value>
           </Data>
         </ExtendedData>
@@ -16388,18 +14212,10 @@ KNNAMN: Vilhelmina</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2463<br>KNNAMN: Åsele<br>KNKOD: 2463<br>KNNAMN: Åsele]]></description>
+        <name>Åsele</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2463
-KNNAMN: Åsele</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2463</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Åsele</value>
           </Data>
         </ExtendedData>
@@ -16433,18 +14249,10 @@ KNNAMN: Åsele</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2480<br>KNNAMN: Umeå<br>KNKOD: 2480<br>KNNAMN: Umeå]]></description>
+        <name>Umeå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2480
-KNNAMN: Umeå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2480</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Umeå</value>
           </Data>
         </ExtendedData>
@@ -16505,18 +14313,10 @@ KNNAMN: Umeå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2481<br>KNNAMN: Lycksele<br>KNKOD: 2481<br>KNNAMN: Lycksele]]></description>
+        <name>Lycksele</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2481
-KNNAMN: Lycksele</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2481</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Lycksele</value>
           </Data>
         </ExtendedData>
@@ -16554,18 +14354,10 @@ KNNAMN: Lycksele</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2482<br>KNNAMN: Skellefteå<br>KNKOD: 2482<br>KNNAMN: Skellefteå]]></description>
+        <name>Skellefteå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2482
-KNNAMN: Skellefteå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2482</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Skellefteå</value>
           </Data>
         </ExtendedData>
@@ -16640,18 +14432,10 @@ KNNAMN: Skellefteå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2505<br>KNNAMN: Arvidsjaur<br>KNKOD: 2505<br>KNNAMN: Arvidsjaur]]></description>
+        <name>Arvidsjaur</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2505
-KNNAMN: Arvidsjaur</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2505</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Arvidsjaur</value>
           </Data>
         </ExtendedData>
@@ -16721,18 +14505,10 @@ KNNAMN: Arvidsjaur</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2506<br>KNNAMN: Arjeplog<br>KNKOD: 2506<br>KNNAMN: Arjeplog]]></description>
+        <name>Arjeplog</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2506
-KNNAMN: Arjeplog</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2506</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Arjeplog</value>
           </Data>
         </ExtendedData>
@@ -16814,18 +14590,10 @@ KNNAMN: Arjeplog</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2510<br>KNNAMN: Jokkmokk<br>KNKOD: 2510<br>KNNAMN: Jokkmokk]]></description>
+        <name>Jokkmokk</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2510
-KNNAMN: Jokkmokk</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2510</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Jokkmokk</value>
           </Data>
         </ExtendedData>
@@ -16900,18 +14668,10 @@ KNNAMN: Jokkmokk</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2513<br>KNNAMN: Överkalix<br>KNKOD: 2513<br>KNNAMN: Överkalix]]></description>
+        <name>Överkalix</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2513
-KNNAMN: Överkalix</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2513</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Överkalix</value>
           </Data>
         </ExtendedData>
@@ -16950,18 +14710,10 @@ KNNAMN: Överkalix</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2514<br>KNNAMN: Kalix<br>KNKOD: 2514<br>KNNAMN: Kalix]]></description>
+        <name>Kalix</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2514
-KNNAMN: Kalix</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2514</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kalix</value>
           </Data>
         </ExtendedData>
@@ -17007,18 +14759,10 @@ KNNAMN: Kalix</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2518<br>KNNAMN: Övertorneå<br>KNKOD: 2518<br>KNNAMN: Övertorneå]]></description>
+        <name>Övertorneå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2518
-KNNAMN: Övertorneå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2518</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Övertorneå</value>
           </Data>
         </ExtendedData>
@@ -17070,18 +14814,10 @@ KNNAMN: Övertorneå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2521<br>KNNAMN: Pajala<br>KNKOD: 2521<br>KNNAMN: Pajala]]></description>
+        <name>Pajala</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2521
-KNNAMN: Pajala</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2521</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Pajala</value>
           </Data>
         </ExtendedData>
@@ -17146,18 +14882,10 @@ KNNAMN: Pajala</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2523<br>KNNAMN: Gällivare<br>KNKOD: 2523<br>KNNAMN: Gällivare]]></description>
+        <name>Gällivare</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2523
-KNNAMN: Gällivare</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2523</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Gällivare</value>
           </Data>
         </ExtendedData>
@@ -17238,18 +14966,10 @@ KNNAMN: Gällivare</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2560<br>KNNAMN: Älvsbyn<br>KNKOD: 2560<br>KNNAMN: Älvsbyn]]></description>
+        <name>Älvsbyn</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2560
-KNNAMN: Älvsbyn</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2560</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Älvsbyn</value>
           </Data>
         </ExtendedData>
@@ -17281,18 +15001,10 @@ KNNAMN: Älvsbyn</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2580<br>KNNAMN: Luleå<br>KNKOD: 2580<br>KNNAMN: Luleå]]></description>
+        <name>Luleå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2580
-KNNAMN: Luleå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2580</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Luleå</value>
           </Data>
         </ExtendedData>
@@ -17346,18 +15058,10 @@ KNNAMN: Luleå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2581<br>KNNAMN: Piteå<br>KNKOD: 2581<br>KNNAMN: Piteå]]></description>
+        <name>Piteå</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2581
-KNNAMN: Piteå</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2581</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Piteå</value>
           </Data>
         </ExtendedData>
@@ -17407,18 +15111,10 @@ KNNAMN: Piteå</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2582<br>KNNAMN: Boden<br>KNKOD: 2582<br>KNNAMN: Boden]]></description>
+        <name>Boden</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2582
-KNNAMN: Boden</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2582</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Boden</value>
           </Data>
         </ExtendedData>
@@ -17456,18 +15152,10 @@ KNNAMN: Boden</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2583<br>KNNAMN: Haparanda<br>KNKOD: 2583<br>KNNAMN: Haparanda]]></description>
+        <name>Haparanda</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2583
-KNNAMN: Haparanda</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2583</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Haparanda</value>
           </Data>
         </ExtendedData>
@@ -17502,18 +15190,10 @@ KNNAMN: Haparanda</value>
         </Polygon>
       </Placemark>
       <Placemark>
-        <name/>
-        <description><![CDATA[description: KNKOD: 2584<br>KNNAMN: Kiruna<br>KNKOD: 2584<br>KNNAMN: Kiruna]]></description>
+        <name>Kiruna</name>
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>KNKOD: 2584
-KNNAMN: Kiruna</value>
-          </Data>
-          <Data name="KNKOD">
-            <value>2584</value>
-          </Data>
-          <Data name="KNNAMN">
             <value>Kiruna</value>
           </Data>
         </ExtendedData>
