@@ -36,7 +36,7 @@ $( document ).ready(function() {
 	$('.enable').on('click', function(){
 		$('textarea').removeAttr('disabled');
 		$('textarea').focus();
-		$('.inputGroup').css({ 'opacity' : 0 })
+		$('.inputGroup').animate({ 'opacity' : 0 })
 
 	});
 	$('.form').submit(function(e){
