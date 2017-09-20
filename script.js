@@ -26,17 +26,17 @@ $( document ).ready(function() {
 			}
 			string = string.replace(/\\n/g, "\n");
 			$('textarea').val(string);
-		}, 10)
+		}, 10);
 
 	};
 	isChecked = function(element) {
-		return $(element).is(':checked')
-	}
+		return $(element).is(':checked');
+	};
 	$('.input').on('change keydown', update);
 	$('.enable').on('click', function(){
 		$('textarea').removeAttr('disabled');
 		$('textarea').focus();
-		$('.inputGroup').animate({ 'opacity' : 0 })
+		$('.inputGroup').animate({ 'opacity' : 0 });
 
 	});
 	$('.form').submit(function(e){
@@ -47,16 +47,17 @@ $( document ).ready(function() {
 			type: "post",
 			data: $( this ).serialize(),
 			success: function() {
-				$('.fieldset').hide()
-				$('.header').hide()
-				$('.nav').after('<div class="header"><h1>Tack!</h1></div>')
+				$('.fieldset').hide();
+				$('.header').hide();
+				$('.nav').after('<div class="header"><h1>Tack!</h1></div>');
 			}
+		});
 	});
-	});
-
+	$('.hello').easyDropDown({
+		onChange: update,
+	})
 	$.getJSON("http://jsonip.com?callback=?", function (data) {
 			$.getJSON('http://ip-api.com/json/'+data.ip, function (data) {
-				console.log(data.city, $('.municipality'))
 				$('.municipality').val(data.city)
 			});
 		});
