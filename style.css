@@ -141,6 +141,7 @@ body {
 
 .fieldset input[type=text],.fieldset input[type=email]{
 	padding: 11px;
+	max-width: 192px;
 }
 .group{
 	margin-bottom: 1em;
