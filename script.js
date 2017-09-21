@@ -56,7 +56,7 @@ $( document ).ready(function() {
 	$('.hello').easyDropDown({
 		onChange: update,
 	})
-	$.getJSON("http://jsonip.com?callback=?", function (data) {
+	$.getJSON("https://jsonip.com?callback=?", function (data) {
 			$.getJSON('http://ip-api.com/json/'+data.ip, function (data) {
 				$('.municipality').val(data.city)
 			});
