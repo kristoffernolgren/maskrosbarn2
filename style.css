@@ -488,3 +488,11 @@ footer img{
     display: block;
     padding-top: 10px;
 }
+@media only screen and (max-width: 1170px) {
+    .inputGroup, .result{
+	    width: 100%;
+	    max-width: 570px;
+	    margin: 0 auto;
+	    float: none;
+    }
+}

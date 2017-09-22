@@ -57,7 +57,7 @@ $( document ).ready(function() {
 		onChange: update,
 	})
 	$.getJSON("https://jsonip.com?callback=?", function (data) {
-			$.getJSON('http://ip-api.com/json/'+data.ip, function (data) {
+			$.getJSON('https://ipapi.co/'+data.ip+'/json/', function (data) {
 				$('.municipality').val(data.city)
 			});
 		});
