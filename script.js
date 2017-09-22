@@ -42,6 +42,7 @@ $( document ).ready(function() {
 	$('.form').submit(function(e){
 		e.preventDefault();
 		$('textarea').removeAttr('disabled');
+		$('.submit').addClass("submitted")
 		$.ajax({
 			url: "https://script.google.com/macros/s/AKfycbx8zIkb8P_s_sax-M3X2oSUw90uQIN3cwkOfoI9eCS1PHXj350/exec",
 			type: "post",

@@ -474,6 +474,12 @@ ul {
     height: 42px;
 }
 
+.submitted {
+	background: #f45430 url('images/three-dots.svg') no-repeat center center;
+	background-size: 50%;
+	color: transparent;
+}
+
 footer{
 	margin-top: 30px;
 	height: 52px;
