@@ -81,7 +81,8 @@ body {
     font-size: 18px;
     color: #fa5224;
     margin: 28px auto 0;
-    width: 500px;
+    max-width: 540px;
+    padding: 20px;
 }
 
 .inputGroup, .result{
@@ -500,5 +501,11 @@ footer img{
 	    max-width: 570px;
 	    margin: 0 auto;
 	    float: none;
+    }
+}
+
+@media only screen and (max-width: 610px) {
+    .half{
+	    width: 100%;
     }
 }
