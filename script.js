@@ -13,7 +13,7 @@ $( document ).ready(function() {
 		checks.forEach(function(check){
 			if($(check).is(':checked')){
 				string += $(check).parent().text();
-				string += '\n';
+				string += '\n\n';
 			}
 		});
 
