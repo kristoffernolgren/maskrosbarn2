@@ -32,7 +32,7 @@ body {
 
 .nav {
 	font-family: 'Roboto Condensed', sans-serif;
-	height: 70px;
+	height: 100px;
 	margin-top: 36px;
 }
 
@@ -200,10 +200,12 @@ label span{
 }
 /* Input reset */
 input[type=range] {
-  -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
-  width: 84%; /* Specific width is required for Firefox. */
-  background: transparent; /* Otherwise white in Chrome */
-  padding: 0;
+	width: 95%;
+	margin: 5px auto 40px;
+	display: block;
+	-webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+	background: transparent; /* Otherwise white in Chrome */
+	padding: 0;
 }
 
 input[type=range]::-webkit-slider-thumb {
@@ -227,8 +229,6 @@ input[type=range]::-ms-track {
 input[type=range]{
 	background: #fa5224;
 	height: 2px;
-    position: relative;
-    top: -6px;
 }
 
 /* Special styling for WebKit/Blink */
@@ -480,7 +480,11 @@ ul {
 	background-size: 50%;
 	color: transparent;
 }
-
+.labels{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
 footer{
 	margin-top: 30px;
 	height: 52px;
