@@ -134,9 +134,8 @@ body {
 
 .text iframe{
 	width: 100%;
-    height: 600px;
-    position: relative;
-    top: -49px;
+    max-height: 640px;
+    height: 56.25vw;
     border: 0;
 }
 
