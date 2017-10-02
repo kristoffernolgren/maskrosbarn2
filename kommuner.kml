@@ -6,10 +6,10 @@
     <Style id="poly-FF5252-1-255-normal">
       <LineStyle>
         <color>ffffffff</color>
-        <width>1</width>
+        <width>0</width>
       </LineStyle>
       <PolyStyle>
-        <color>ff1414ff</color>
+        <color>001414ff</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -13566,7 +13566,12 @@
         <styleUrl>#poly-FF5252-1-255</styleUrl>
         <ExtendedData>
           <Data name="description">
-            <value>Härjedalen</value>
+            <value><![CDATA[
+          <h1>Härjedalen</h1>
+          <p><font color="red">Text is <i>more readable</i> and
+          <b>easier to write</b> when you can avoid using entity
+          references.</font></p><a href="/">Test</a>
+        ]]></value>
           </Data>
         </ExtendedData>
         <Polygon>
